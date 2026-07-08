@@ -1,0 +1,1813 @@
+{
+  "meta": {
+    "colecao": "Al-Arba'in An-Nawawiyyah (Os 40 Hadiths do Imam An-Nawawi)",
+    "colecao_en": "Al-Arba'in An-Nawawiyyah (Imam An-Nawawi's Forty Hadith)",
+    "autor": "Imam Yahya ibn Sharaf An-Nawawi (631-676 AH / 1233-1277 CE)",
+    "total_hadiths": 42,
+    "nota": "Compilação clássica conhecida como 'Os 40', embora contenha 42 hadiths. Texto árabe, transliteração e traduções fornecidos para estudo. Recomenda-se revisão da vocalização (tashkil) árabe com o sheikh antes do uso litúrgico.",
+    "idiomas": [
+      "ar",
+      "pt",
+      "en"
+    ],
+    "versao": "1.0"
+  },
+  "hadiths": [
+    {
+      "number": 1,
+      "title_pt": "As ações são pelas intenções",
+      "title_en": "Actions are but by intentions",
+      "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ.",
+      "transliteration": "Innama al-a'malu bi-n-niyyat, wa innama li-kulli imri'in ma nawa. Faman kanat hijratuhu ila Allahi wa Rasulihi fahijratuhu ila Allahi wa Rasulih, wa man kanat hijratuhu li-dunya yusibuha aw imra'atin yankihuha fahijratuhu ila ma hajara ilayh.",
+      "translation_pt": "As ações são apenas pelas intenções, e cada pessoa terá apenas aquilo que pretendeu. Quem emigrou por Allah e Seu Mensageiro, sua emigração é por Allah e Seu Mensageiro; e quem emigrou por algum bem mundano que quisesse alcançar, ou por uma mulher com quem quisesse casar, sua emigração é por aquilo pelo qual emigrou.",
+      "translation_en": "Actions are but by intention, and every man shall have only that which he intended. Thus he whose migration was for Allah and His Messenger, his migration was for Allah and His Messenger; and he whose migration was to achieve some worldly benefit or to take a woman in marriage, his migration was for that which he migrated.",
+      "narrator": "Umar ibn al-Khattab (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Umar ibn al-Khattab; acordado (muttafaq 'alayh) por Al-Bukhari e Muslim. É um dos hadiths que giram em torno de si toda a religião.",
+      "chain_note_en": "Narrated by Umar ibn al-Khattab; agreed upon (muttafaq 'alayh) by al-Bukhari and Muslim. One of the hadiths around which the whole religion revolves.",
+      "teachings_pt": [
+        "A validade e a recompensa dos atos dependem da intenção sincera pelo bem de Allah.",
+        "Um mesmo ato externo pode ser adoração ou hábito vazio conforme a intenção.",
+        "Purificar o coração e a intenção é a base de toda prática religiosa."
+      ],
+      "teachings_en": [
+        "The validity and reward of deeds depend on sincere intention for Allah's sake.",
+        "The same outward act can be worship or empty habit depending on intention.",
+        "Purifying the heart and intention is the foundation of all religious practice."
+      ],
+      "themes_pt": [
+        "Intenção (niyyah)",
+        "Sinceridade (ikhlas)",
+        "Fundamentos das ações"
+      ],
+      "themes_en": [
+        "Intention (niyyah)",
+        "Sincerity (ikhlas)",
+        "Foundations of deeds"
+      ]
+    },
+    {
+      "number": 2,
+      "title_pt": "Hadith de Jibril: Islam, Iman e Ihsan",
+      "title_en": "The hadith of Jibril: Islam, Iman and Ihsan",
+      "arabic": "بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللهِ ﷺ ذَاتَ يَوْمٍ، إِذْ طَلَعَ عَلَيْنَا رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعْرِ... فَأَخْبِرْنِي عَنِ الإِسْلاَمِ، قَالَ: الإِسْلاَمُ أَنْ تَشْهَدَ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَتُقِيمَ الصَّلاَةَ، وَتُؤْتِيَ الزَّكَاةَ، وَتَصُومَ رَمَضَانَ، وَتَحُجَّ الْبَيْتَ إِنِ اسْتَطَعْتَ إِلَيْهِ سَبِيلاً... قَالَ: فَأَخْبِرْنِي عَنِ الإِحْسَانِ، قَالَ: أَنْ تَعْبُدَ اللهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ.",
+      "transliteration": "Baynama nahnu julusun 'inda Rasulillah (ﷺ) dhata yawmin idh tala'a 'alayna rajulun shadidu bayadi ath-thiyab... al-Islamu an tashhada an la ilaha illa Allah wa anna Muhammadan Rasulullah, wa tuqima as-salah, wa tu'tiya az-zakah, wa tasuma Ramadan, wa tahujja al-bayta in istata'ta ilayhi sabila... al-Ihsanu an ta'buda Allaha ka'annaka tarah, fa'in lam takun tarahu fa'innahu yarak.",
+      "translation_pt": "Certo dia, estávamos sentados com o Mensageiro de Allah ﷺ quando surgiu um homem de roupas muito brancas e cabelos muito negros... Ele disse: 'Informa-me sobre o Islam.' O Profeta ﷺ disse: 'O Islam é testemunhar que não há divindade além de Allah e que Muhammad é o Mensageiro de Allah, estabelecer a oração, dar o zakat, jejuar no Ramadã e peregrinar à Casa se tiveres meios para isso.' ... Ele disse: 'Informa-me sobre o Ihsan.' Disse: 'É adorar Allah como se O visses; e, se não O vês, Ele certamente te vê.'",
+      "translation_en": "One day while we were sitting with the Messenger of Allah ﷺ, a man with very white clothing and very black hair came to us... He said: 'Tell me about Islam.' The Messenger ﷺ said: 'Islam is to testify that there is no god but Allah and that Muhammad is the Messenger of Allah, to establish the prayer, pay the zakat, fast Ramadan, and make pilgrimage to the House if you are able.' ... He said: 'Tell me about Ihsan.' He said: 'It is to worship Allah as though you see Him, and if you do not see Him, then indeed He sees you.'",
+      "narrator": "Umar ibn al-Khattab (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Umar; registrado por Muslim. Conhecido como 'o hadith de Jibril', pois o anjo veio ensinar a religião perguntando ao Profeta ﷺ.",
+      "chain_note_en": "Narrated by Umar; recorded by Muslim. Known as 'the hadith of Jibril', as the angel came to teach the religion by questioning the Prophet ﷺ.",
+      "teachings_pt": [
+        "A religião se divide em três níveis: Islam (prática), Iman (fé) e Ihsan (excelência).",
+        "Os cinco pilares do Islam e os seis pilares da fé são definidos com clareza.",
+        "O Ihsan é a consciência permanente de que Allah nos observa."
+      ],
+      "teachings_en": [
+        "The religion has three levels: Islam (practice), Iman (faith), and Ihsan (excellence).",
+        "The five pillars of Islam and six pillars of faith are clearly defined.",
+        "Ihsan is the constant awareness that Allah is watching us."
+      ],
+      "themes_pt": [
+        "Islam, Iman, Ihsan",
+        "Pilares da fé",
+        "Sinais da Hora"
+      ],
+      "themes_en": [
+        "Islam, Iman, Ihsan",
+        "Pillars of faith",
+        "Signs of the Hour"
+      ]
+    },
+    {
+      "number": 3,
+      "title_pt": "Os pilares do Islam",
+      "title_en": "The pillars of Islam",
+      "arabic": "بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ.",
+      "transliteration": "Buniya al-Islamu 'ala khams: shahadati an la ilaha illa Allah wa anna Muhammadan Rasulullah, wa iqami as-salah, wa ita'i az-zakah, wa hajji al-bayt, wa sawmi Ramadan.",
+      "translation_pt": "O Islam foi edificado sobre cinco: o testemunho de que não há divindade além de Allah e que Muhammad é o Mensageiro de Allah, o estabelecimento da oração, o pagamento do zakat, a peregrinação à Casa e o jejum do Ramadã.",
+      "translation_en": "Islam is built upon five: the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing the prayer, giving the zakat, pilgrimage to the House, and fasting Ramadan.",
+      "narrator": "Abdullah ibn Umar (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Ibn Umar; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Ibn Umar; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "O Islam se apoia em cinco pilares que sustentam toda a prática do muçulmano.",
+        "O testemunho de fé (shahada) é a base sobre a qual repousam os demais atos.",
+        "A imagem de uma edificação mostra que faltar a um pilar enfraquece a estrutura."
+      ],
+      "teachings_en": [
+        "Islam rests on five pillars that support the Muslim's entire practice.",
+        "The testimony of faith (shahada) is the base on which the other acts rest.",
+        "The building imagery shows that missing a pillar weakens the structure."
+      ],
+      "themes_pt": [
+        "Pilares do Islam",
+        "Adoração",
+        "Fundamentos"
+      ],
+      "themes_en": [
+        "Pillars of Islam",
+        "Worship",
+        "Foundations"
+      ]
+    },
+    {
+      "number": 4,
+      "title_pt": "As etapas da criação e o decreto divino",
+      "title_en": "The stages of creation and the divine decree",
+      "arabic": "إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ وَأَجَلِهِ وَعَمَلِهِ وَشَقِيٍّ أَوْ سَعِيدٍ.",
+      "transliteration": "Inna ahadakum yujma'u khalquhu fi batni ummihi arba'ina yawman nutfah, thumma yakunu 'alaqatan mithla dhalik, thumma yakunu mudghatan mithla dhalik, thumma yursalu ilayhi al-malaku fayanfukhu fihi ar-ruh, wa yu'maru bi-arba'i kalimat: bikatbi rizqihi wa ajalihi wa 'amalihi wa shaqiyyin aw sa'id.",
+      "translation_pt": "A criação de cada um de vós é reunida no ventre da mãe por quarenta dias como gota (nutfah); depois, torna-se um coágulo (alaqah) por igual período; depois, um pedaço de carne (mudghah) por igual período; então é enviado o anjo que lhe sopra a alma e é ordenado a escrever quatro palavras: seu sustento, seu prazo de vida, suas ações e se será infeliz ou feliz.",
+      "translation_en": "Each of you is gathered in the womb of his mother for forty days as a drop (nutfah), then becomes a clot (alaqah) for a like period, then a morsel of flesh (mudghah) for a like period; then the angel is sent who breathes the soul into him and is commanded with four words: to write his provision, his lifespan, his deeds, and whether he will be wretched or happy.",
+      "narrator": "Abdullah ibn Mas'ud (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Ibn Mas'ud, 'o veraz e digno de confiança' (as-sadiq al-masduq); acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Ibn Mas'ud, from 'the truthful and trusted one' (as-sadiq al-masduq); agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "As fases do desenvolvimento humano no ventre e o sopro da alma.",
+        "Tudo — sustento, prazo de vida, ações e destino — é decretado por Allah.",
+        "O julgamento se dá pelo estado final: alguém pode mudar de rumo até o fim."
+      ],
+      "teachings_en": [
+        "The stages of human development in the womb and the breathing of the soul.",
+        "Everything — provision, lifespan, deeds, and destiny — is decreed by Allah.",
+        "Judgement is by the final state: one may change course until the end."
+      ],
+      "themes_pt": [
+        "Decreto divino (qadar)",
+        "Criação",
+        "Fim das ações (khatimah)"
+      ],
+      "themes_en": [
+        "Divine decree (qadar)",
+        "Creation",
+        "Final deeds (khatimah)"
+      ]
+    },
+    {
+      "number": 5,
+      "title_pt": "Rejeição das inovações na religião",
+      "title_en": "Rejection of innovations in religion",
+      "arabic": "مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ.",
+      "transliteration": "Man ahdatha fi amrina hadha ma laysa minhu fahuwa radd.",
+      "translation_pt": "Quem introduzir em nossa questão (a religião) algo que não lhe pertence, isso é rejeitado.",
+      "translation_en": "Whoever introduces into this affair of ours something that is not part of it will have it rejected.",
+      "narrator": "Aisha (رضي الله عنها)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Aisha; acordado por Al-Bukhari e Muslim. Numa versão de Muslim: 'Quem faz um ato que não está de acordo com o nosso assunto, é rejeitado.'",
+      "chain_note_en": "Narrated by Aisha; agreed upon by al-Bukhari and Muslim. In a version of Muslim: 'Whoever does an act not in accordance with our matter will have it rejected.'",
+      "teachings_pt": [
+        "Atos de adoração inventados sem base na revelação são recusados.",
+        "A religião é completa; acrescentar-lhe algo alheio a desvirtua.",
+        "Critério para distinguir a Sunnah da inovação (bid'ah)."
+      ],
+      "teachings_en": [
+        "Invented acts of worship without basis in revelation are rejected.",
+        "The religion is complete; adding what is foreign to it distorts it.",
+        "A criterion to distinguish the Sunnah from innovation (bid'ah)."
+      ],
+      "themes_pt": [
+        "Inovação (bid'ah)",
+        "Seguir a Sunnah",
+        "Preservação da religião"
+      ],
+      "themes_en": [
+        "Innovation (bid'ah)",
+        "Following the Sunnah",
+        "Preserving the religion"
+      ]
+    },
+    {
+      "number": 6,
+      "title_pt": "O lícito é claro e o ilícito é claro",
+      "title_en": "The lawful is clear and the unlawful is clear",
+      "arabic": "إِنَّ الْحَلاَلَ بَيِّنٌ وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ لاَ يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ... أَلاَ وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلاَ وَهِيَ الْقَلْبُ.",
+      "transliteration": "Inna al-halala bayyinun wa inna al-harama bayyin, wa baynahuma umurun mushtabihatun la ya'lamuhunna kathirun mina an-nas. Faman ittaqa ash-shubuhati faqad istabra'a li-dinihi wa 'irdih... Ala wa inna fi al-jasadi mudghatan idha salahat salaha al-jasadu kulluh, wa idha fasadat fasada al-jasadu kulluh, ala wa hiya al-qalb.",
+      "translation_pt": "O lícito é claro e o ilícito é claro, e entre ambos há assuntos duvidosos que muitos não conhecem. Quem se resguarda das dúvidas preserva sua religião e sua honra... Certamente, no corpo há um pedaço de carne que, se estiver íntegro, todo o corpo estará íntegro, e se estiver corrompido, todo o corpo estará corrompido — e ele é o coração.",
+      "translation_en": "The lawful is clear and the unlawful is clear, and between them are doubtful matters that many people do not know. Whoever guards against doubtful matters keeps his religion and honour blameless... Truly, in the body there is a morsel of flesh which, if sound, the whole body is sound, and if corrupt, the whole body is corrupt — and it is the heart.",
+      "narrator": "An-Nu'man ibn Bashir (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por An-Nu'man ibn Bashir; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by an-Nu'man ibn Bashir; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "Evitar os assuntos duvidosos protege a religião e a reputação (wara').",
+        "Aproximar-se do que é duvidoso pode levar ao que é proibido.",
+        "A retidão do coração determina a retidão de todo o comportamento."
+      ],
+      "teachings_en": [
+        "Avoiding doubtful matters protects one's religion and reputation (wara').",
+        "Coming close to the doubtful can lead into the forbidden.",
+        "The soundness of the heart determines the soundness of all conduct."
+      ],
+      "themes_pt": [
+        "Lícito e ilícito",
+        "Escrúpulo (wara')",
+        "Retidão do coração"
+      ],
+      "themes_en": [
+        "Lawful and unlawful",
+        "Scrupulousness (wara')",
+        "Soundness of the heart"
+      ]
+    },
+    {
+      "number": 7,
+      "title_pt": "A religião é o bom conselho (an-nasihah)",
+      "title_en": "The religion is sincere advice (an-nasihah)",
+      "arabic": "الدِّينُ النَّصِيحَةُ. قُلْنَا: لِمَنْ؟ قَالَ: لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ.",
+      "transliteration": "Ad-dinu an-nasihah. Qulna: liman? Qala: lillahi, wa likitabihi, wa lirasulihi, wa li'a'immati al-muslimina wa 'ammatihim.",
+      "translation_pt": "A religião é o bom conselho (sinceridade). Dissemos: 'Para quem?' Disse: 'Para Allah, para o Seu Livro, para o Seu Mensageiro, para os líderes dos muçulmanos e para o conjunto deles.'",
+      "translation_en": "The religion is sincere advice. We said: 'To whom?' He said: 'To Allah, to His Book, to His Messenger, to the leaders of the Muslims, and to their common folk.'",
+      "narrator": "Tamim ad-Dari (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Tamim ad-Dari; registrado por Muslim.",
+      "chain_note_en": "Narrated by Tamim ad-Dari; recorded by Muslim.",
+      "teachings_pt": [
+        "A sinceridade (nasihah) resume e engloba toda a religião.",
+        "Ela se direciona a Allah, ao Alcorão, ao Profeta ﷺ, aos líderes e à comunidade.",
+        "Querer o bem para os outros faz parte essencial da fé."
+      ],
+      "teachings_en": [
+        "Sincerity (nasihah) sums up and encompasses the entire religion.",
+        "It is directed to Allah, the Qur'an, the Prophet ﷺ, the leaders, and the community.",
+        "Wanting good for others is an essential part of faith."
+      ],
+      "themes_pt": [
+        "Sinceridade (nasihah)",
+        "Comunidade",
+        "Boa vontade"
+      ],
+      "themes_en": [
+        "Sincerity (nasihah)",
+        "Community",
+        "Goodwill"
+      ]
+    },
+    {
+      "number": 8,
+      "title_pt": "A inviolabilidade do muçulmano",
+      "title_en": "The sanctity of the Muslim",
+      "arabic": "أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَيُقِيمُوا الصَّلاَةَ، وَيُؤْتُوا الزَّكَاةَ، فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ الإِسْلاَمِ، وَحِسَابُهُمْ عَلَى اللهِ.",
+      "transliteration": "Umirtu an uqatila an-nasa hatta yashhadu an la ilaha illa Allah wa anna Muhammadan Rasulullah, wa yuqimu as-salah, wa yu'tu az-zakah. Fa'idha fa'alu dhalika 'asamu minni dima'ahum wa amwalahum illa bihaqqi al-Islam, wa hisabuhum 'ala Allah.",
+      "translation_pt": "Foi-me ordenado combater as pessoas até que testemunhem que não há divindade além de Allah e que Muhammad é o Mensageiro de Allah, estabeleçam a oração e paguem o zakat. Se fizerem isso, protegerão de mim seu sangue e seus bens, exceto pelo direito do Islam, e seu ajuste de contas cabe a Allah.",
+      "translation_en": "I have been commanded to fight the people until they testify that there is no god but Allah and that Muhammad is the Messenger of Allah, establish the prayer, and pay the zakat. If they do so, they protect from me their lives and property, except by the right of Islam, and their reckoning is with Allah.",
+      "narrator": "Abdullah ibn Umar (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Ibn Umar; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Ibn Umar; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "A vida e os bens de quem entra no Islam tornam-se invioláveis.",
+        "O julgamento das intenções ocultas pertence a Allah, não às pessoas.",
+        "A shahada, a oração e o zakat marcam a pertença à comunidade."
+      ],
+      "teachings_en": [
+        "The life and property of one who enters Islam become inviolable.",
+        "Judging hidden intentions belongs to Allah, not to people.",
+        "The shahada, prayer, and zakat mark belonging to the community."
+      ],
+      "themes_pt": [
+        "Inviolabilidade",
+        "Direitos",
+        "Justiça divina"
+      ],
+      "themes_en": [
+        "Sanctity of life",
+        "Rights",
+        "Divine justice"
+      ]
+    },
+    {
+      "number": 9,
+      "title_pt": "Fazei o que ordeno na medida do possível",
+      "title_en": "Do what I command as much as you can",
+      "arabic": "مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلاَفُهُمْ عَلَى أَنْبِيَائِهِمْ.",
+      "transliteration": "Ma nahaytukum 'anhu fajtanibuh, wa ma amartukum bihi fa'tu minhu ma astata'tum, fa'innama ahlaka alladhina min qablikum kathratu masa'ilihim wakhtilafuhum 'ala anbiya'ihim.",
+      "translation_pt": "Aquilo de que vos proíbo, evitai-o; e aquilo que vos ordeno, fazei-o na medida do que puderdes. Pois o que destruiu os que vos precederam foi o excesso de perguntas e a discordância com seus profetas.",
+      "translation_en": "What I have forbidden you, avoid; and what I have commanded you, do as much of it as you can. For what destroyed those before you was their excessive questioning and their disagreement with their prophets.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "As proibições devem ser evitadas por completo; as ordens, cumpridas conforme a capacidade.",
+        "A religião é fácil e leva em conta as limitações humanas.",
+        "O excesso de perguntas e a rebeldia arruinaram povos anteriores."
+      ],
+      "teachings_en": [
+        "Prohibitions must be avoided completely; commands fulfilled to one's capacity.",
+        "The religion is easy and takes human limitations into account.",
+        "Excessive questioning and rebelliousness ruined earlier peoples."
+      ],
+      "themes_pt": [
+        "Facilidade da religião",
+        "Obediência",
+        "Capacidade"
+      ],
+      "themes_en": [
+        "Ease of religion",
+        "Obedience",
+        "Capacity"
+      ]
+    },
+    {
+      "number": 10,
+      "title_pt": "Allah é Puro e só aceita o que é puro",
+      "title_en": "Allah is Good and accepts only what is good",
+      "arabic": "إِنَّ اللهَ تَعَالَى طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبًا، وَإِنَّ اللهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ... ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ! يَا رَبِّ! وَمَطْعَمُهُ حَرَامٌ وَمَشْرَبُهُ حَرَامٌ وَمَلْبَسُهُ حَرَامٌ وَغُذِيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لَهُ؟",
+      "transliteration": "Inna Allaha ta'ala tayyibun la yaqbalu illa tayyiba, wa inna Allaha amara al-mu'minina bima amara bihi al-mursalin... thumma dhakara ar-rajula yutilu as-safara ash'atha aghbara yamuddu yadayhi ila as-sama': ya Rabbi! ya Rabbi! wa mat'amuhu haram wa mashrabuhu haram wa malbasuhu haram wa ghudhiya bil-haram, fa'anna yustajabu lah?",
+      "translation_pt": "Allah, o Altíssimo, é Puro e só aceita o que é puro. E Allah ordenou aos crentes o mesmo que ordenou aos mensageiros... Depois mencionou o homem que faz longa viagem, desgrenhado e empoeirado, estendendo as mãos ao céu: 'Ó meu Senhor! Ó meu Senhor!' — enquanto seu alimento é ilícito, sua bebida é ilícita, sua roupa é ilícita e foi nutrido com o ilícito. Como poderia ser atendido?",
+      "translation_en": "Allah the Exalted is Good and accepts only what is good. Allah has commanded the believers with what He commanded the messengers... Then he mentioned a man who travels far, dishevelled and dusty, stretching his hands to the sky: 'O Lord! O Lord!' — while his food is unlawful, his drink is unlawful, his clothing is unlawful, and he is nourished by the unlawful. So how could he be answered?",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; recorded by Muslim.",
+      "teachings_pt": [
+        "Allah só aceita atos e bens obtidos de forma lícita e pura.",
+        "O sustento ilícito é um obstáculo ao atendimento das súplicas.",
+        "A pureza dos meios importa tanto quanto a devoção externa."
+      ],
+      "teachings_en": [
+        "Allah accepts only deeds and wealth acquired lawfully and purely.",
+        "Unlawful sustenance is an obstacle to answered supplications.",
+        "Purity of means matters as much as outward devotion."
+      ],
+      "themes_pt": [
+        "Sustento lícito",
+        "Súplica (du'a)",
+        "Pureza"
+      ],
+      "themes_en": [
+        "Lawful sustenance",
+        "Supplication (du'a)",
+        "Purity"
+      ]
+    },
+    {
+      "number": 11,
+      "title_pt": "Deixa o que te causa dúvida",
+      "title_en": "Leave what makes you doubt",
+      "arabic": "دَعْ مَا يَرِيبُكَ إِلَى مَا لاَ يَرِيبُكَ.",
+      "transliteration": "Da' ma yaribuka ila ma la yaribuk.",
+      "translation_pt": "Deixa o que te causa dúvida por aquilo que não te causa dúvida.",
+      "translation_en": "Leave what makes you doubt for what does not make you doubt.",
+      "narrator": "Al-Hasan ibn Ali (رضي الله عنهما)",
+      "grade": "Sahih / Hasan sahih",
+      "sources": [
+        "Sunan at-Tirmidhi",
+        "Sunan an-Nasa'i"
+      ],
+      "chain_note_pt": "Narrado por Al-Hasan ibn Ali, neto do Profeta ﷺ; registrado por At-Tirmidhi (que o classificou hasan sahih) e An-Nasa'i.",
+      "chain_note_en": "Narrated by al-Hasan ibn Ali, grandson of the Prophet ﷺ; recorded by at-Tirmidhi (graded hasan sahih) and an-Nasa'i.",
+      "teachings_pt": [
+        "A tranquilidade acompanha a verdade; a inquietação acompanha a dúvida.",
+        "Diante de incerteza moral, opta-se pelo que deixa a consciência em paz.",
+        "Princípio prático para decisões cotidianas duvidosas."
+      ],
+      "teachings_en": [
+        "Tranquility accompanies truth; unease accompanies doubt.",
+        "When morally uncertain, choose what leaves the conscience at peace.",
+        "A practical principle for everyday doubtful decisions."
+      ],
+      "themes_pt": [
+        "Escrúpulo (wara')",
+        "Consciência",
+        "Certeza"
+      ],
+      "themes_en": [
+        "Scrupulousness (wara')",
+        "Conscience",
+        "Certainty"
+      ]
+    },
+    {
+      "number": 12,
+      "title_pt": "Deixar o que não interessa",
+      "title_en": "Leaving what does not concern you",
+      "arabic": "مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيهِ.",
+      "transliteration": "Min husni islami al-mar'i tarkuhu ma la ya'nih.",
+      "translation_pt": "Faz parte da beleza do Islam de uma pessoa que ela deixe aquilo que não lhe diz respeito.",
+      "translation_en": "Part of the excellence of a person's Islam is his leaving what does not concern him.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan at-Tirmidhi",
+        "outros"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; registrado por At-Tirmidhi e outros; classificado como hasan.",
+      "chain_note_en": "Narrated by Abu Hurayrah; recorded by at-Tirmidhi and others; graded hasan.",
+      "teachings_pt": [
+        "Ocupar-se apenas do que é útil e relevante aperfeiçoa o Islam.",
+        "Evitar bisbilhotice, fofoca e assuntos alheios preserva o coração e o tempo.",
+        "Foco no essencial é sinal de maturidade espiritual."
+      ],
+      "teachings_en": [
+        "Concerning oneself only with what is useful and relevant perfects one's Islam.",
+        "Avoiding prying, gossip, and others' affairs preserves the heart and time.",
+        "Focus on the essential is a sign of spiritual maturity."
+      ],
+      "themes_pt": [
+        "Foco",
+        "Autodomínio",
+        "Bom caráter"
+      ],
+      "themes_en": [
+        "Focus",
+        "Self-restraint",
+        "Good character"
+      ]
+    },
+    {
+      "number": 13,
+      "title_pt": "Amar para o irmão o que se ama para si",
+      "title_en": "Loving for your brother what you love for yourself",
+      "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ.",
+      "transliteration": "La yu'minu ahadukum hatta yuhibba li'akhihi ma yuhibbu linafsih.",
+      "translation_pt": "Nenhum de vós crê verdadeiramente até que ame para o seu irmão o que ama para si mesmo.",
+      "translation_en": "None of you truly believes until he loves for his brother what he loves for himself.",
+      "narrator": "Anas ibn Malik (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Anas ibn Malik; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Anas ibn Malik; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "A fé plena inclui desejar aos outros o bem que se deseja a si mesmo.",
+        "Combate à inveja e ao egoísmo entre os crentes.",
+        "A fraternidade é medida do amadurecimento da fé."
+      ],
+      "teachings_en": [
+        "Complete faith includes wishing others the good one wishes for oneself.",
+        "It counters envy and selfishness among believers.",
+        "Brotherhood is a measure of the maturity of faith."
+      ],
+      "themes_pt": [
+        "Fraternidade",
+        "Fé",
+        "Amor pelo outro"
+      ],
+      "themes_en": [
+        "Brotherhood",
+        "Faith",
+        "Love for others"
+      ]
+    },
+    {
+      "number": 14,
+      "title_pt": "A inviolabilidade do sangue exceto em três casos",
+      "title_en": "The sanctity of blood except in three cases",
+      "arabic": "لاَ يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ إِلاَّ بِإِحْدَى ثَلاَثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ.",
+      "transliteration": "La yahillu damu imri'in muslimin illa bi-ihda thalath: ath-thayyibu az-zani, wa an-nafsu bi-n-nafs, wa at-tariku lidinihi al-mufariqu lil-jama'ah.",
+      "translation_pt": "Não é lícito o sangue de um muçulmano, exceto em um de três casos: o adúltero já casado, a vida pela vida (homicídio), e aquele que abandona sua religião separando-se da comunidade.",
+      "translation_en": "The blood of a Muslim is not lawful except in one of three cases: the married person who commits adultery, a life for a life (murder), and the one who forsakes his religion and separates from the community.",
+      "narrator": "Abdullah ibn Mas'ud (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Ibn Mas'ud; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Ibn Mas'ud; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "A vida humana é sagrada e sua tutela cabe à autoridade legítima, não a indivíduos.",
+        "Enumera os casos excepcionais previstos na lei, aplicados por um Estado justo.",
+        "Reforça a gravidade de tirar uma vida sem direito."
+      ],
+      "teachings_en": [
+        "Human life is sacred and its adjudication belongs to legitimate authority, not individuals.",
+        "It lists the exceptional cases set by law, applied by a just state.",
+        "It stresses the gravity of taking a life without right."
+      ],
+      "themes_pt": [
+        "Santidade da vida",
+        "Justiça",
+        "Lei (shari'ah)"
+      ],
+      "themes_en": [
+        "Sanctity of life",
+        "Justice",
+        "Law (shari'ah)"
+      ]
+    },
+    {
+      "number": 15,
+      "title_pt": "Falar o bem ou calar; honrar o vizinho e o hóspede",
+      "title_en": "Speak good or be silent; honour neighbour and guest",
+      "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ.",
+      "transliteration": "Man kana yu'minu billahi wal-yawmi al-akhiri falyaqul khayran aw liyasmut, wa man kana yu'minu billahi wal-yawmi al-akhiri falyukrim jarah, wa man kana yu'minu billahi wal-yawmi al-akhiri falyukrim dayfah.",
+      "translation_pt": "Quem crê em Allah e no Último Dia, que fale o bem ou se cale; quem crê em Allah e no Último Dia, que honre o seu vizinho; e quem crê em Allah e no Último Dia, que honre o seu hóspede.",
+      "translation_en": "Whoever believes in Allah and the Last Day, let him speak good or remain silent; whoever believes in Allah and the Last Day, let him honour his neighbour; and whoever believes in Allah and the Last Day, let him honour his guest.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "A fé se manifesta na guarda da língua e no bom trato social.",
+        "Direitos do vizinho e hospitalidade ao hóspede são parte da fé viva.",
+        "O silêncio é preferível quando não há bem a dizer."
+      ],
+      "teachings_en": [
+        "Faith shows itself in guarding the tongue and good social conduct.",
+        "The rights of the neighbour and hospitality to the guest are part of living faith.",
+        "Silence is preferable when there is no good to say."
+      ],
+      "themes_pt": [
+        "Guardar a língua",
+        "Vizinhança",
+        "Hospitalidade"
+      ],
+      "themes_en": [
+        "Guarding the tongue",
+        "Neighbourliness",
+        "Hospitality"
+      ]
+    },
+    {
+      "number": 16,
+      "title_pt": "Não te enfureças",
+      "title_en": "Do not become angry",
+      "arabic": "أَنَّ رَجُلاً قَالَ لِلنَّبِيِّ ﷺ: أَوْصِنِي، قَالَ: لاَ تَغْضَبْ. فَرَدَّدَ مِرَارًا، قَالَ: لاَ تَغْضَبْ.",
+      "transliteration": "Anna rajulan qala lin-Nabiyyi (ﷺ): awsini, qala: la taghdab. Faraddada miraran, qala: la taghdab.",
+      "translation_pt": "Um homem disse ao Profeta ﷺ: 'Aconselha-me.' Ele disse: 'Não te enfureças.' O homem repetiu o pedido várias vezes, e ele respondeu: 'Não te enfureças.'",
+      "translation_en": "A man said to the Prophet ﷺ: 'Advise me.' He said: 'Do not become angry.' The man repeated the request several times, and he replied: 'Do not become angry.'",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; registrado por Al-Bukhari.",
+      "chain_note_en": "Narrated by Abu Hurayrah; recorded by al-Bukhari.",
+      "teachings_pt": [
+        "Controlar a ira é um pilar do bom caráter e evita muitos pecados.",
+        "A repetição da resposta mostra a centralidade do domínio próprio.",
+        "Verdadeira força está em conter-se no momento da raiva."
+      ],
+      "teachings_en": [
+        "Controlling anger is a pillar of good character and averts many sins.",
+        "The repeated answer shows how central self-control is.",
+        "True strength lies in restraining oneself at the moment of anger."
+      ],
+      "themes_pt": [
+        "Controle da ira",
+        "Autodomínio",
+        "Caráter"
+      ],
+      "themes_en": [
+        "Anger management",
+        "Self-control",
+        "Character"
+      ]
+    },
+    {
+      "number": 17,
+      "title_pt": "A excelência (ihsan) em todas as coisas",
+      "title_en": "Excellence (ihsan) in all things",
+      "arabic": "إِنَّ اللهَ كَتَبَ الإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ.",
+      "transliteration": "Inna Allaha kataba al-ihsana 'ala kulli shay', fa'idha qataltum fa'ahsinu al-qitlah, wa idha dhabahtum fa'ahsinu adh-dhibhah, walyuhidda ahadukum shafratah, walyurih dhabihatah.",
+      "translation_pt": "Allah prescreveu a excelência (ihsan) em todas as coisas. Assim, quando matardes (em pena legal ou combate justo), fazei-o da melhor forma; e quando abaterdes (um animal), fazei-o da melhor forma: que cada um afie sua lâmina e poupe de sofrimento o animal.",
+      "translation_en": "Allah has prescribed excellence (ihsan) in all things. So when you kill (in lawful punishment or just combat), do it well; and when you slaughter (an animal), do it well: let each of you sharpen his blade and spare the animal suffering.",
+      "narrator": "Abu Ya'la Shaddad ibn Aws (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Shaddad ibn Aws; registrado por Muslim.",
+      "chain_note_en": "Narrated by Shaddad ibn Aws; recorded by Muslim.",
+      "teachings_pt": [
+        "A excelência (ihsan) deve marcar cada ação, mesmo as difíceis.",
+        "Misericórdia inclusive com os animais no momento do abate.",
+        "A fé aperfeiçoa o modo de fazer as coisas, não só o que se faz."
+      ],
+      "teachings_en": [
+        "Excellence (ihsan) should mark every action, even the difficult ones.",
+        "Mercy even toward animals at the moment of slaughter.",
+        "Faith perfects how things are done, not only what is done."
+      ],
+      "themes_pt": [
+        "Excelência (ihsan)",
+        "Misericórdia",
+        "Ética prática"
+      ],
+      "themes_en": [
+        "Excellence (ihsan)",
+        "Mercy",
+        "Practical ethics"
+      ]
+    },
+    {
+      "number": 18,
+      "title_pt": "Teme a Allah onde estiveres",
+      "title_en": "Fear Allah wherever you are",
+      "arabic": "اتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ.",
+      "transliteration": "Ittaqi Allaha haythuma kunt, wa atbi'i as-sayyi'ata al-hasanata tamhuha, wa khaliqi an-nasa bikhuluqin hasan.",
+      "translation_pt": "Teme a Allah onde quer que estejas; faz seguir a má ação de uma boa que a apague; e trata as pessoas com bom caráter.",
+      "translation_en": "Fear Allah wherever you are, follow a bad deed with a good one that will wipe it out, and treat people with good character.",
+      "narrator": "Abu Dharr al-Ghifari e Mu'adh ibn Jabal (رضي الله عنهما)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan at-Tirmidhi"
+      ],
+      "chain_note_pt": "Narrado por Abu Dharr e Mu'adh ibn Jabal; registrado por At-Tirmidhi, que o classificou hasan (em alguns manuscritos, hasan sahih).",
+      "chain_note_en": "Narrated by Abu Dharr and Mu'adh ibn Jabal; recorded by at-Tirmidhi, who graded it hasan (in some copies, hasan sahih).",
+      "teachings_pt": [
+        "A consciência de Allah (taqwa) deve ser constante, em público e em privado.",
+        "As boas ações apagam as más; o arrependimento se traduz em obras.",
+        "O bom caráter completa a relação com Allah e com as pessoas."
+      ],
+      "teachings_en": [
+        "God-consciousness (taqwa) must be constant, in public and private.",
+        "Good deeds wipe out bad ones; repentance is expressed in works.",
+        "Good character completes one's relationship with Allah and people."
+      ],
+      "themes_pt": [
+        "Taqwa",
+        "Arrependimento",
+        "Bom caráter"
+      ],
+      "themes_en": [
+        "Taqwa",
+        "Repentance",
+        "Good character"
+      ]
+    },
+    {
+      "number": 19,
+      "title_pt": "Guarda os limites de Allah e Ele te guardará",
+      "title_en": "Be mindful of Allah and He will protect you",
+      "arabic": "يَا غُلاَمُ، إِنِّي أُعَلِّمُكَ كَلِمَاتٍ: احْفَظِ اللهَ يَحْفَظْكَ، احْفَظِ اللهَ تَجِدْهُ تُجَاهَكَ... وَاعْلَمْ أَنَّ الأُمَّةَ لَوِ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللهُ لَكَ، وَإِنِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللهُ عَلَيْكَ.",
+      "transliteration": "Ya ghulam, inni u'allimuka kalimat: ihfazi Allaha yahfazk, ihfazi Allaha tajidhu tujahak... wa'lam anna al-ummata law ijtama'at 'ala an yanfa'uka bishay'in lam yanfa'uka illa bishay'in qad katabahu Allahu lak, wa in ijtama'u 'ala an yadurruka bishay'in lam yadurruka illa bishay'in qad katabahu Allahu 'alayk.",
+      "translation_pt": "Ó jovem, vou ensinar-te algumas palavras: guarda (os mandamentos de) Allah e Ele te guardará; guarda a Allah e O encontrarás diante de ti... Sabe que, se toda a comunidade se reunisse para te beneficiar em algo, não te beneficiaria senão naquilo que Allah já escreveu para ti; e se se reunisse para te prejudicar, não te prejudicaria senão naquilo que Allah já escreveu contra ti.",
+      "translation_en": "O young man, I will teach you some words: Be mindful of Allah and He will protect you; be mindful of Allah and you will find Him before you... Know that if the whole nation were to gather to benefit you with something, they would not benefit you except with what Allah had already written for you; and if they gathered to harm you, they would not harm you except with what Allah had already written against you.",
+      "narrator": "Abdullah ibn Abbas (رضي الله عنهما)",
+      "grade": "Hasan sahih",
+      "sources": [
+        "Sunan at-Tirmidhi"
+      ],
+      "chain_note_pt": "Narrado por Ibn Abbas; registrado por At-Tirmidhi, que o classificou hasan sahih.",
+      "chain_note_en": "Narrated by Ibn Abbas; recorded by at-Tirmidhi, who graded it hasan sahih.",
+      "teachings_pt": [
+        "Guardar os limites de Allah traz a proteção e a companhia divina.",
+        "Pedir e confiar somente em Allah; benefício e dano vêm do Seu decreto.",
+        "A serenidade nasce da certeza no destino escrito por Allah."
+      ],
+      "teachings_en": [
+        "Guarding Allah's limits brings divine protection and nearness.",
+        "Ask and rely on Allah alone; benefit and harm come from His decree.",
+        "Serenity is born from certainty in Allah's written decree."
+      ],
+      "themes_pt": [
+        "Confiança em Allah (tawakkul)",
+        "Decreto divino",
+        "Proteção"
+      ],
+      "themes_en": [
+        "Reliance on Allah (tawakkul)",
+        "Divine decree",
+        "Protection"
+      ]
+    },
+    {
+      "number": 20,
+      "title_pt": "Se não tens pudor, faze o que quiseres",
+      "title_en": "If you have no shame, do as you wish",
+      "arabic": "إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ الأُولَى: إِذَا لَمْ تَسْتَحْيِ فَاصْنَعْ مَا شِئْتَ.",
+      "transliteration": "Inna mimma adraka an-nasu min kalami an-nubuwwati al-ula: idha lam tastahyi fasna' ma shi't.",
+      "translation_pt": "Dentre o que as pessoas herdaram das palavras da profecia antiga está: 'Se não tens pudor (haya'), faze o que quiseres.'",
+      "translation_en": "Among what people have retained from the words of the earliest prophecy is: 'If you have no shame (haya'), then do as you wish.'",
+      "narrator": "Abu Mas'ud al-Ansari (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "chain_note_pt": "Narrado por Abu Mas'ud Uqbah ibn Amr al-Ansari; registrado por Al-Bukhari.",
+      "chain_note_en": "Narrated by Abu Mas'ud Uqbah ibn Amr al-Ansari; recorded by al-Bukhari.",
+      "teachings_pt": [
+        "O pudor (haya') é freio interior que impede o mal.",
+        "Quando o pudor desaparece, nada detém a pessoa do erro.",
+        "O haya' é ensinamento comum a todos os profetas."
+      ],
+      "teachings_en": [
+        "Modesty (haya') is an inner restraint that prevents evil.",
+        "When modesty vanishes, nothing holds a person back from wrongdoing.",
+        "Haya' is a teaching common to all the prophets."
+      ],
+      "themes_pt": [
+        "Pudor (haya')",
+        "Consciência moral",
+        "Caráter"
+      ],
+      "themes_en": [
+        "Modesty (haya')",
+        "Moral conscience",
+        "Character"
+      ]
+    },
+    {
+      "number": 21,
+      "title_pt": "Crê em Allah e sê firme (istaqim)",
+      "title_en": "Believe in Allah and be steadfast (istaqim)",
+      "arabic": "قُلْ: آمَنْتُ بِاللهِ، ثُمَّ اسْتَقِمْ.",
+      "transliteration": "Qul: amantu billah, thumma istaqim.",
+      "translation_pt": "Dize: 'Creio em Allah', e depois sê firme (mantém-te reto no caminho).",
+      "translation_en": "Say: 'I believe in Allah', and then be steadfast (remain upright on the path).",
+      "narrator": "Sufyan ibn Abdullah ath-Thaqafi (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Sufyan ibn Abdullah; registrado por Muslim.",
+      "chain_note_en": "Narrated by Sufyan ibn Abdullah; recorded by Muslim.",
+      "teachings_pt": [
+        "A fé deve ser seguida de firmeza e constância (istiqamah) na prática.",
+        "Um princípio que resume toda a religião em poucas palavras.",
+        "A retidão contínua importa mais do que picos passageiros de devoção."
+      ],
+      "teachings_en": [
+        "Faith must be followed by steadfastness and constancy (istiqamah) in practice.",
+        "A principle that sums up the whole religion in few words.",
+        "Continuous uprightness matters more than passing peaks of devotion."
+      ],
+      "themes_pt": [
+        "Firmeza (istiqamah)",
+        "Fé",
+        "Constância"
+      ],
+      "themes_en": [
+        "Steadfastness (istiqamah)",
+        "Faith",
+        "Constancy"
+      ]
+    },
+    {
+      "number": 22,
+      "title_pt": "O caminho para o Paraíso",
+      "title_en": "The path to Paradise",
+      "arabic": "أَرَأَيْتَ إِذَا صَلَّيْتُ الْمَكْتُوبَاتِ، وَصُمْتُ رَمَضَانَ، وَأَحْلَلْتُ الْحَلاَلَ، وَحَرَّمْتُ الْحَرَامَ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا، أَأَدْخُلُ الْجَنَّةَ؟ قَالَ: نَعَمْ.",
+      "transliteration": "Ara'ayta idha sallaytu al-maktubat, wa sumtu Ramadan, wa ahlaltu al-halal, wa harramtu al-haram, wa lam azid 'ala dhalika shay'an, a'adkhulu al-jannah? Qala: na'am.",
+      "translation_pt": "Um homem perguntou: 'Se eu cumprir as orações obrigatórias, jejuar o Ramadã, considerar lícito o que é lícito e ilícito o que é ilícito, sem acrescentar mais nada a isso, entrarei no Paraíso?' Ele disse: 'Sim.'",
+      "translation_en": "A man asked: 'If I perform the obligatory prayers, fast Ramadan, treat as lawful what is lawful and as unlawful what is unlawful, and add nothing more to that, will I enter Paradise?' He said: 'Yes.'",
+      "narrator": "Jabir ibn Abdullah (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Jabir ibn Abdullah; registrado por Muslim.",
+      "chain_note_en": "Narrated by Jabir ibn Abdullah; recorded by Muslim.",
+      "teachings_pt": [
+        "Cumprir as obrigações e evitar o proibido basta para alcançar o Paraíso.",
+        "A religião é acessível; o essencial está ao alcance de todos.",
+        "Os atos voluntários elevam o grau, mas não são condição de salvação."
+      ],
+      "teachings_en": [
+        "Fulfilling obligations and avoiding the forbidden suffices to reach Paradise.",
+        "The religion is accessible; the essential is within everyone's reach.",
+        "Voluntary acts raise one's rank but are not a condition of salvation."
+      ],
+      "themes_pt": [
+        "Obrigações",
+        "Paraíso",
+        "Simplicidade da fé"
+      ],
+      "themes_en": [
+        "Obligations",
+        "Paradise",
+        "Simplicity of faith"
+      ]
+    },
+    {
+      "number": 23,
+      "title_pt": "A pureza é metade da fé",
+      "title_en": "Purity is half of faith",
+      "arabic": "الطُّهُورُ شَطْرُ الإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ، وَسُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ تَمْلَآنِ - أَوْ تَمْلَأُ - مَا بَيْنَ السَّمَاءِ وَالأَرْضِ، وَالصَّلاَةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالْقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ. كُلُّ النَّاسِ يَغْدُو، فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا.",
+      "transliteration": "At-tuhuru shatru al-iman, wal-hamdu lillahi tamla'u al-mizan, wa subhana Allahi wal-hamdu lillahi tamla'ani - aw tamla'u - ma bayna as-sama'i wal-ard, was-salatu nur, was-sadaqatu burhan, was-sabru diya', wal-Qur'anu hujjatun laka aw 'alayk. Kullu an-nasi yaghdu, faba'i'un nafsahu famu'tiquha aw mubiquha.",
+      "translation_pt": "A pureza é metade da fé; 'al-hamdu lillah' (louvado seja Allah) enche a balança; 'subhana Allah wal-hamdu lillah' enchem — ou enche — o que há entre o céu e a terra; a oração é luz; a caridade é prova; a paciência é claridade; e o Alcorão é argumento a teu favor ou contra ti. Todos amanhecem e negociam a si mesmos: uns libertam sua alma, outros a arruínam.",
+      "translation_en": "Purity is half of faith; 'al-hamdu lillah' fills the scale; 'subhana Allah wal-hamdu lillah' fill — or fills — what is between heaven and earth; prayer is light; charity is proof; patience is radiance; and the Qur'an is an argument for you or against you. Everyone starts the day and sells his own soul: some free it, others destroy it.",
+      "narrator": "Abu Malik al-Ash'ari (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Malik al-Ash'ari; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Malik al-Ash'ari; recorded by Muslim.",
+      "teachings_pt": [
+        "A purificação (interior e exterior) é fundamento da fé.",
+        "O louvor e a lembrança de Allah (dhikr) têm imenso peso na balança.",
+        "Cada dia é uma negociação com a própria alma: salvar ou perder."
+      ],
+      "teachings_en": [
+        "Purification (inner and outer) is a foundation of faith.",
+        "Praise and remembrance of Allah (dhikr) weigh heavily on the scale.",
+        "Each day is a bargain with one's own soul: to save it or lose it."
+      ],
+      "themes_pt": [
+        "Pureza",
+        "Lembrança de Allah (dhikr)",
+        "Paciência"
+      ],
+      "themes_en": [
+        "Purity",
+        "Remembrance of Allah (dhikr)",
+        "Patience"
+      ]
+    },
+    {
+      "number": 24,
+      "title_pt": "Hadith Qudsi: a proibição da injustiça",
+      "title_en": "Hadith Qudsi: the prohibition of oppression",
+      "arabic": "يَا عِبَادِي! إِنِّي حَرَّمْتُ الظُّلْمَ عَلَى نَفْسِي وَجَعَلْتُهُ بَيْنَكُمْ مُحَرَّمًا فَلاَ تَظَالَمُوا... يَا عِبَادِي! إِنَّمَا هِيَ أَعْمَالُكُمْ أُحْصِيهَا لَكُمْ ثُمَّ أُوَفِّيكُمْ إِيَّاهَا، فَمَنْ وَجَدَ خَيْرًا فَلْيَحْمَدِ اللهَ، وَمَنْ وَجَدَ غَيْرَ ذَلِكَ فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ.",
+      "transliteration": "Ya 'ibadi! inni harramtu az-zulma 'ala nafsi wa ja'altuhu baynakum muharraman fala tazalamu... Ya 'ibadi! innama hiya a'malukum uhsiha lakum thumma uwaffikum iyyaha, faman wajada khayran falyahmadi Allah, wa man wajada ghayra dhalika fala yalumanna illa nafsah.",
+      "translation_pt": "Ó Meus servos! Proibi a injustiça para Mim mesmo e a tornei proibida entre vós; então não sejais injustos uns com os outros... Ó Meus servos! São apenas as vossas ações que registro para vós e pelas quais vos retribuirei plenamente. Quem encontrar o bem, louve a Allah; e quem encontrar outra coisa, não culpe senão a si mesmo.",
+      "translation_en": "O My servants! I have forbidden oppression for Myself and made it forbidden among you, so do not wrong one another... O My servants! It is only your deeds that I record for you and for which I will fully repay you. So whoever finds good, let him praise Allah; and whoever finds otherwise, let him blame no one but himself.",
+      "narrator": "Abu Dharr al-Ghifari (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Hadith Qudsi (palavra de Allah relatada pelo Profeta ﷺ), narrado por Abu Dharr; registrado por Muslim.",
+      "chain_note_en": "Hadith Qudsi (word of Allah related by the Prophet ﷺ), narrated by Abu Dharr; recorded by Muslim.",
+      "teachings_pt": [
+        "Allah proibiu a injustiça para Si e entre os servos: base da ética.",
+        "Toda necessidade e orientação vêm de Allah; a criatura é totalmente dependente.",
+        "Cada um colhe suas ações; a responsabilidade é pessoal."
+      ],
+      "teachings_en": [
+        "Allah forbade oppression for Himself and among servants: the basis of ethics.",
+        "All need and guidance come from Allah; the creature is utterly dependent.",
+        "Each one reaps his own deeds; responsibility is personal."
+      ],
+      "themes_pt": [
+        "Justiça",
+        "Dependência de Allah",
+        "Responsabilidade"
+      ],
+      "themes_en": [
+        "Justice",
+        "Dependence on Allah",
+        "Responsibility"
+      ]
+    },
+    {
+      "number": 25,
+      "title_pt": "As múltiplas portas da caridade",
+      "title_en": "The many doors of charity",
+      "arabic": "أَوَلَيْسَ قَدْ جَعَلَ اللهُ لَكُمْ مَا تَصَّدَّقُونَ؟ إِنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً، وَكُلِّ تَكْبِيرَةٍ صَدَقَةً، وَكُلِّ تَحْمِيدَةٍ صَدَقَةً، وَكُلِّ تَهْلِيلَةٍ صَدَقَةً، وَأَمْرٌ بِالْمَعْرُوفِ صَدَقَةٌ، وَنَهْيٌ عَنِ الْمُنْكَرِ صَدَقَةٌ، وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ.",
+      "transliteration": "Awalaysa qad ja'ala Allahu lakum ma tassaddaqun? Inna bikulli tasbihatin sadaqah, wa kulli takbiratin sadaqah, wa kulli tahmidatin sadaqah, wa kulli tahlilatin sadaqah, wa amrun bil-ma'rufi sadaqah, wa nahyun 'ani al-munkari sadaqah, wa fi bud'i ahadikum sadaqah.",
+      "translation_pt": "Não vos concedeu Allah aquilo com que podeis dar caridade? Cada 'subhana Allah' é uma caridade, cada 'Allahu akbar' é uma caridade, cada 'al-hamdu lillah' é uma caridade, cada 'la ilaha illa Allah' é uma caridade; ordenar o bem é caridade; proibir o mal é caridade; e até na intimidade lícita de um de vós há caridade.",
+      "translation_en": "Has not Allah given you means to give charity? Every 'subhana Allah' is charity, every 'Allahu akbar' is charity, every 'al-hamdu lillah' is charity, every 'la ilaha illa Allah' is charity; enjoining good is charity; forbidding evil is charity; and even in the lawful intimacy of one of you there is charity.",
+      "narrator": "Abu Dharr al-Ghifari (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Dharr; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Dharr; recorded by Muslim.",
+      "teachings_pt": [
+        "A caridade não se restringe ao dinheiro: palavras e boas ações também contam.",
+        "Todos podem praticar o bem, ricos e pobres.",
+        "Até atos lícitos e cotidianos podem ser recompensados com boa intenção."
+      ],
+      "teachings_en": [
+        "Charity is not limited to money: words and good deeds also count.",
+        "Everyone can do good, rich and poor alike.",
+        "Even lawful, everyday acts can be rewarded with good intention."
+      ],
+      "themes_pt": [
+        "Caridade (sadaqah)",
+        "Dhikr",
+        "Boas ações"
+      ],
+      "themes_en": [
+        "Charity (sadaqah)",
+        "Dhikr",
+        "Good deeds"
+      ]
+    },
+    {
+      "number": 26,
+      "title_pt": "Uma caridade por cada articulação",
+      "title_en": "A charity for every joint",
+      "arabic": "كُلُّ سُلاَمَى مِنَ النَّاسِ عَلَيْهِ صَدَقَةٌ، كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ: تَعْدِلُ بَيْنَ اثْنَيْنِ صَدَقَةٌ، وَتُعِينُ الرَّجُلَ فِي دَابَّتِهِ... وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَبِكُلِّ خَطْوَةٍ تَمْشِيهَا إِلَى الصَّلاَةِ صَدَقَةٌ، وَتُمِيطُ الأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ.",
+      "transliteration": "Kullu sulama mina an-nasi 'alayhi sadaqah, kulla yawmin tatlu'u fihi ash-shams: ta'dilu bayna ithnayni sadaqah, wa tu'inu ar-rajula fi dabbatih... wal-kalimatu at-tayyibatu sadaqah, wa bikulli khatwatin tamshiha ila as-salati sadaqah, wa tumitu al-adha 'ani at-tariqi sadaqah.",
+      "translation_pt": "Sobre cada articulação (osso) das pessoas recai uma caridade a cada dia em que o sol nasce: fazer justiça entre duas pessoas é caridade; ajudar alguém com sua montaria... a boa palavra é caridade; cada passo que dás em direção à oração é caridade; e remover o que causa dano do caminho é caridade.",
+      "translation_en": "Upon every joint of a person is a charity each day the sun rises: to reconcile two people is charity; to help a man with his mount... a good word is charity; every step you take toward the prayer is charity; and removing harm from the road is charity.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "Gratidão pelo corpo se expressa em atos diários de bem.",
+        "Pequenos gestos — uma palavra boa, remover um obstáculo — são caridade.",
+        "O bem está ao alcance de todos, a todo momento."
+      ],
+      "teachings_en": [
+        "Gratitude for the body is expressed in daily acts of good.",
+        "Small gestures — a kind word, removing an obstacle — are charity.",
+        "Doing good is within everyone's reach, at every moment."
+      ],
+      "themes_pt": [
+        "Caridade cotidiana",
+        "Gratidão",
+        "Serviço"
+      ],
+      "themes_en": [
+        "Everyday charity",
+        "Gratitude",
+        "Service"
+      ]
+    },
+    {
+      "number": 27,
+      "title_pt": "A virtude e o pecado",
+      "title_en": "Righteousness and sin",
+      "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي نَفْسِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ.",
+      "transliteration": "Al-birru husnu al-khuluq, wal-ithmu ma haka fi nafsika wa karihta an yattali'a 'alayhi an-nas.",
+      "translation_pt": "A virtude é o bom caráter; e o pecado é o que perturba a tua alma e que detestas que as pessoas venham a saber.",
+      "translation_en": "Righteousness is good character, and sin is what wavers in your soul and which you dislike people finding out about.",
+      "narrator": "An-Nawwas ibn Sam'an (رضي الله عنه)",
+      "grade": "Sahih / Hasan",
+      "sources": [
+        "Sahih Muslim",
+        "Musnad Ahmad",
+        "Sunan ad-Darimi"
+      ],
+      "chain_note_pt": "Narrado por An-Nawwas ibn Sam'an (Muslim); parte também narrada por Wabisah ibn Ma'bad (Ahmad e Ad-Darimi, hadith hasan).",
+      "chain_note_en": "Narrated by an-Nawwas ibn Sam'an (Muslim); part also narrated by Wabisah ibn Ma'bad (Ahmad and ad-Darimi, hasan).",
+      "teachings_pt": [
+        "A virtude verdadeira se expressa no bom caráter.",
+        "A consciência é um sinal interior: o pecado inquieta a alma.",
+        "A opinião das pessoas não substitui o juízo do coração sincero."
+      ],
+      "teachings_en": [
+        "True righteousness is expressed in good character.",
+        "Conscience is an inner sign: sin unsettles the soul.",
+        "People's opinion does not replace the judgement of a sincere heart."
+      ],
+      "themes_pt": [
+        "Bom caráter",
+        "Consciência",
+        "Pecado"
+      ],
+      "themes_en": [
+        "Good character",
+        "Conscience",
+        "Sin"
+      ]
+    },
+    {
+      "number": 28,
+      "title_pt": "Apegar-se à Sunnah",
+      "title_en": "Holding fast to the Sunnah",
+      "arabic": "أُوصِيكُمْ بِتَقْوَى اللهِ، وَالسَّمْعِ وَالطَّاعَةِ وَإِنْ تَأَمَّرَ عَلَيْكُمْ عَبْدٌ... فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينَ، عَضُّوا عَلَيْهَا بِالنَّوَاجِذِ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورِ، فَإِنَّ كُلَّ بِدْعَةٍ ضَلاَلَةٌ.",
+      "transliteration": "Usikum bitaqwa Allah, was-sam'i wat-ta'ati wa in ta'ammara 'alaykum 'abd... fa'alaykum bisunnati wa sunnati al-khulafa'i ar-rashidina al-mahdiyyin, 'addu 'alayha bin-nawajidh, wa iyyakum wa muhdathati al-umur, fa'inna kulla bid'atin dalalah.",
+      "translation_pt": "Aconselho-vos o temor a Allah, e a ouvir e obedecer, ainda que vos governe um servo... Apegai-vos à minha Sunnah e à Sunnah dos califas bem-guiados e retos; agarrai-vos a ela com os molares (firmemente). E acautelai-vos das inovações, pois toda inovação (na religião) é desvio.",
+      "translation_en": "I advise you to fear Allah, and to listen and obey, even if a servant is set over you... Hold fast to my Sunnah and the Sunnah of the rightly-guided caliphs; cling to it with your molars (firmly). And beware of newly-invented matters, for every innovation (in religion) is misguidance.",
+      "narrator": "Al-Irbad ibn Sariyah (رضي الله عنه)",
+      "grade": "Hasan sahih",
+      "sources": [
+        "Sunan Abi Dawud",
+        "Sunan at-Tirmidhi"
+      ],
+      "chain_note_pt": "Narrado por Al-Irbad ibn Sariyah; registrado por Abu Dawud e At-Tirmidhi, que o classificou hasan sahih.",
+      "chain_note_en": "Narrated by al-Irbad ibn Sariyah; recorded by Abu Dawud and at-Tirmidhi, who graded it hasan sahih.",
+      "teachings_pt": [
+        "Temor a Allah e obediência à autoridade legítima na comunidade.",
+        "Aferrar-se firmemente à Sunnah do Profeta ﷺ e dos califas retos.",
+        "Advertência contra inovações que desviam da religião."
+      ],
+      "teachings_en": [
+        "Fear of Allah and obedience to legitimate authority in the community.",
+        "Cling firmly to the Sunnah of the Prophet ﷺ and the rightly-guided caliphs.",
+        "A warning against innovations that lead astray from the religion."
+      ],
+      "themes_pt": [
+        "Sunnah",
+        "Unidade da comunidade",
+        "Contra a inovação"
+      ],
+      "themes_en": [
+        "Sunnah",
+        "Community unity",
+        "Against innovation"
+      ]
+    },
+    {
+      "number": 29,
+      "title_pt": "As portas do bem",
+      "title_en": "The gateways of good",
+      "arabic": "أَلاَ أَدُلُّكَ عَلَى أَبْوَابِ الْخَيْرِ؟ الصَّوْمُ جُنَّةٌ، وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا يُطْفِئُ الْمَاءُ النَّارَ، وَصَلاَةُ الرَّجُلِ فِي جَوْفِ اللَّيْلِ... رَأْسُ الأَمْرِ الإِسْلاَمُ، وَعَمُودُهُ الصَّلاَةُ، وَذِرْوَةُ سَنَامِهِ الْجِهَادُ. أَلاَ أُخْبِرُكَ بِمِلاَكِ ذَلِكَ كُلِّهِ؟ ... كُفَّ عَلَيْكَ هَذَا، وَأَشَارَ إِلَى لِسَانِهِ.",
+      "transliteration": "Ala adulluka 'ala abwabi al-khayr? As-sawmu junnah, was-sadaqatu tutfi'u al-khati'ata kama yutfi'u al-ma'u an-nar, wa salatu ar-rajuli fi jawfi al-layl... ra'su al-amri al-Islam, wa 'amuduhu as-salah, wa dhirwatu sanamihi al-jihad. Ala ukhbiruka bimilaki dhalika kullih? ... kuffa 'alayka hadha, wa ashara ila lisanih.",
+      "translation_pt": "Não te indicarei as portas do bem? O jejum é um escudo; a caridade apaga o pecado como a água apaga o fogo; e a oração do homem no meio da noite... O cerne de tudo é o Islam, seu pilar é a oração e o cume é o jihad. Não te informarei sobre o que sustenta tudo isso? ... 'Guarda isto' — e apontou para a língua.",
+      "translation_en": "Shall I not guide you to the gateways of good? Fasting is a shield; charity extinguishes sin as water extinguishes fire; and the prayer of a man in the depth of night... The head of the matter is Islam, its pillar is prayer, and its peak is jihad. Shall I not tell you what holds all of that together? ... 'Restrain this' — and he pointed to his tongue.",
+      "narrator": "Mu'adh ibn Jabal (رضي الله عنه)",
+      "grade": "Hasan sahih",
+      "sources": [
+        "Sunan at-Tirmidhi"
+      ],
+      "chain_note_pt": "Narrado por Mu'adh ibn Jabal; registrado por At-Tirmidhi, que o classificou hasan sahih.",
+      "chain_note_en": "Narrated by Mu'adh ibn Jabal; recorded by at-Tirmidhi, who graded it hasan sahih.",
+      "teachings_pt": [
+        "Jejum, caridade e oração noturna são grandes portas para o bem.",
+        "A estrutura da religião: Islam (base), oração (pilar) e esforço (cume).",
+        "Guardar a língua é o que preserva todo o edifício da fé."
+      ],
+      "teachings_en": [
+        "Fasting, charity, and night prayer are great gateways to good.",
+        "The structure of religion: Islam (base), prayer (pillar), and striving (peak).",
+        "Guarding the tongue is what preserves the whole edifice of faith."
+      ],
+      "themes_pt": [
+        "Portas do bem",
+        "Estrutura da fé",
+        "Guardar a língua"
+      ],
+      "themes_en": [
+        "Gateways of good",
+        "Structure of faith",
+        "Guarding the tongue"
+      ]
+    },
+    {
+      "number": 30,
+      "title_pt": "Os limites de Allah",
+      "title_en": "The limits of Allah",
+      "arabic": "إِنَّ اللهَ تَعَالَى فَرَضَ فَرَائِضَ فَلاَ تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلاَ تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلاَ تَنْتَهِكُوهَا، وَسَكَتَ عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلاَ تَبْحَثُوا عَنْهَا.",
+      "transliteration": "Inna Allaha ta'ala farada fara'ida fala tudayyi'uha, wa hadda hududan fala ta'taduha, wa harrama ashya'a fala tantahikuha, wa sakata 'an ashya'a rahmatan lakum ghayra nisyanin fala tabhathu 'anha.",
+      "translation_pt": "Allah, o Altíssimo, prescreveu obrigações, então não as negligencieis; estabeleceu limites, então não os transgridais; proibiu certas coisas, então não as violeis; e silenciou sobre outras, por misericórdia para convosco e não por esquecimento, então não indagueis a respeito delas.",
+      "translation_en": "Allah the Exalted has ordained obligations, so do not neglect them; He has set limits, so do not transgress them; He has forbidden things, so do not violate them; and He has kept silent about things, out of mercy for you and not out of forgetfulness, so do not inquire about them.",
+      "narrator": "Abu Tha'labah al-Khushani (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan ad-Daraqutni",
+        "outros"
+      ],
+      "chain_note_pt": "Narrado por Abu Tha'labah al-Khushani; registrado por Ad-Daraqutni e outros; classificado como hasan.",
+      "chain_note_en": "Narrated by Abu Tha'labah al-Khushani; recorded by ad-Daraqutni and others; graded hasan.",
+      "teachings_pt": [
+        "A religião equilibra obrigações, proibições e limites a respeitar.",
+        "O silêncio da lei sobre certos temas é misericórdia, não descuido.",
+        "Não se deve complicar a religião com perguntas excessivas."
+      ],
+      "teachings_en": [
+        "The religion balances obligations, prohibitions, and limits to respect.",
+        "The law's silence on certain matters is mercy, not oversight.",
+        "One should not complicate religion with excessive questioning."
+      ],
+      "themes_pt": [
+        "Limites (hudud)",
+        "Equilíbrio",
+        "Misericórdia da lei"
+      ],
+      "themes_en": [
+        "Limits (hudud)",
+        "Balance",
+        "Mercy of the law"
+      ]
+    },
+    {
+      "number": 31,
+      "title_pt": "O verdadeiro desapego (zuhd)",
+      "title_en": "True detachment (zuhd)",
+      "arabic": "ازْهَدْ فِي الدُّنْيَا يُحِبَّكَ اللهُ، وَازْهَدْ فِيمَا عِنْدَ النَّاسِ يُحِبَّكَ النَّاسُ.",
+      "transliteration": "Izhad fi ad-dunya yuhibbaka Allah, wazhad fima 'inda an-nasi yuhibbaka an-nas.",
+      "translation_pt": "Desapega-te do mundo e Allah te amará; desapega-te do que está nas mãos das pessoas e as pessoas te amarão.",
+      "translation_en": "Be detached from the world and Allah will love you; be detached from what people possess and people will love you.",
+      "narrator": "Sahl ibn Sa'd as-Sa'idi (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan Ibn Majah",
+        "outros"
+      ],
+      "chain_note_pt": "Narrado por Sahl ibn Sa'd as-Sa'idi; registrado por Ibn Majah e outros com boas cadeias; classificado como hasan.",
+      "chain_note_en": "Narrated by Sahl ibn Sa'd as-Sa'idi; recorded by Ibn Majah and others with sound chains; graded hasan.",
+      "teachings_pt": [
+        "O desapego do mundo (zuhd) atrai o amor de Allah.",
+        "Não cobiçar o que os outros possuem gera afeto e paz social.",
+        "Zuhd não é pobreza, mas colocar o mundo nas mãos e não no coração."
+      ],
+      "teachings_en": [
+        "Detachment from the world (zuhd) attracts the love of Allah.",
+        "Not coveting what others own brings affection and social peace.",
+        "Zuhd is not poverty, but holding the world in the hands, not the heart."
+      ],
+      "themes_pt": [
+        "Desapego (zuhd)",
+        "Contentamento",
+        "Amor de Allah"
+      ],
+      "themes_en": [
+        "Detachment (zuhd)",
+        "Contentment",
+        "Love of Allah"
+      ]
+    },
+    {
+      "number": 32,
+      "title_pt": "Não prejudicar nem retribuir prejuízo",
+      "title_en": "No harming and no reciprocating harm",
+      "arabic": "لاَ ضَرَرَ وَلاَ ضِرَارَ.",
+      "transliteration": "La darara wa la dirar.",
+      "translation_pt": "Não há (permissão para) causar dano, nem para retribuir com dano.",
+      "translation_en": "There should be neither harming nor reciprocating harm.",
+      "narrator": "Abu Sa'id al-Khudri (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan Ibn Majah",
+        "Muwatta Malik",
+        "Sunan ad-Daraqutni"
+      ],
+      "chain_note_pt": "Narrado por Abu Sa'id al-Khudri; registrado por Ibn Majah, Ad-Daraqutni e (mursal) no Muwatta de Malik; hadith hasan por suas múltiplas vias.",
+      "chain_note_en": "Narrated by Abu Sa'id al-Khudri; recorded by Ibn Majah, ad-Daraqutni, and (mursal) in Malik's Muwatta; hasan through its multiple chains.",
+      "teachings_pt": [
+        "Princípio jurídico central: eliminar o dano na vida individual e social.",
+        "Proíbe tanto causar dano quanto vingar-se causando dano.",
+        "Base de muitas regras de fiqh sobre convivência e propriedade."
+      ],
+      "teachings_en": [
+        "A central legal principle: removing harm in individual and social life.",
+        "It forbids both causing harm and retaliating by causing harm.",
+        "The basis of many fiqh rulings on coexistence and property."
+      ],
+      "themes_pt": [
+        "Não causar dano",
+        "Princípio jurídico",
+        "Justiça"
+      ],
+      "themes_en": [
+        "No harm",
+        "Legal principle",
+        "Justice"
+      ]
+    },
+    {
+      "number": 33,
+      "title_pt": "O ônus da prova",
+      "title_en": "The burden of proof",
+      "arabic": "لَوْ يُعْطَى النَّاسُ بِدَعْوَاهُمْ لاَدَّعَى رِجَالٌ أَمْوَالَ قَوْمٍ وَدِمَاءَهُمْ، لَكِنِ الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ.",
+      "transliteration": "Law yu'ta an-nasu bida'wahum ladda'a rijalun amwala qawmin wa dima'ahum, lakini al-bayyinatu 'ala al-mudda'i, wal-yaminu 'ala man ankar.",
+      "translation_pt": "Se às pessoas fosse concedido tudo o que reivindicassem, homens reclamariam os bens e o sangue de outros; mas a prova cabe a quem acusa, e o juramento a quem nega.",
+      "translation_en": "If people were given whatever they claimed, men would claim the wealth and blood of others; but the proof is upon the claimant, and the oath is upon the one who denies.",
+      "narrator": "Abdullah ibn Abbas (رضي الله عنهما)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan al-Bayhaqi",
+        "(partes em al-Bukhari e Muslim)"
+      ],
+      "chain_note_pt": "Narrado por Ibn Abbas; nesta redação por Al-Bayhaqi (hasan); parte do texto é acordada por Al-Bukhari e Muslim.",
+      "chain_note_en": "Narrated by Ibn Abbas; in this wording by al-Bayhaqi (hasan); part of the text is agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "Fundamento da justiça: acusações exigem provas.",
+        "Protege as pessoas de reivindicações infundadas.",
+        "Base das regras de julgamento e evidência no Islam."
+      ],
+      "teachings_en": [
+        "A foundation of justice: accusations require evidence.",
+        "It protects people from baseless claims.",
+        "The basis of rules of judgement and evidence in Islam."
+      ],
+      "themes_pt": [
+        "Justiça",
+        "Prova",
+        "Direito"
+      ],
+      "themes_en": [
+        "Justice",
+        "Evidence",
+        "Law"
+      ]
+    },
+    {
+      "number": 34,
+      "title_pt": "Mudar o mal conforme a capacidade",
+      "title_en": "Changing evil according to ability",
+      "arabic": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الإِيمَانِ.",
+      "transliteration": "Man ra'a minkum munkaran falyughayyirhu biyadih, fa'in lam yastati' fabilisanih, fa'in lam yastati' fabiqalbih, wa dhalika ad'afu al-iman.",
+      "translation_pt": "Quem de vós vir um mal, que o mude com sua mão; se não puder, então com sua língua; e se não puder, então com seu coração — e isso é o mais fraco (nível) da fé.",
+      "translation_en": "Whoever among you sees an evil, let him change it with his hand; if he is unable, then with his tongue; and if he is unable, then with his heart — and that is the weakest of faith.",
+      "narrator": "Abu Sa'id al-Khudri (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Sa'id al-Khudri; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Sa'id al-Khudri; recorded by Muslim.",
+      "teachings_pt": [
+        "O dever de ordenar o bem e proibir o mal em três níveis.",
+        "A ação deve respeitar a capacidade, o cargo e a sabedoria de cada um.",
+        "Rejeitar o mal com o coração é o mínimo exigido da fé."
+      ],
+      "teachings_en": [
+        "The duty to enjoin good and forbid evil at three levels.",
+        "Action must respect each person's ability, position, and wisdom.",
+        "Rejecting evil in the heart is the minimum required by faith."
+      ],
+      "themes_pt": [
+        "Ordenar o bem",
+        "Responsabilidade",
+        "Níveis da fé"
+      ],
+      "themes_en": [
+        "Enjoining good",
+        "Responsibility",
+        "Levels of faith"
+      ]
+    },
+    {
+      "number": 35,
+      "title_pt": "A fraternidade islâmica",
+      "title_en": "Islamic brotherhood",
+      "arabic": "لاَ تَحَاسَدُوا، وَلاَ تَنَاجَشُوا، وَلاَ تَبَاغَضُوا، وَلاَ تَدَابَرُوا... وَكُونُوا عِبَادَ اللهِ إِخْوَانًا. الْمُسْلِمُ أَخُو الْمُسْلِمِ، لاَ يَظْلِمُهُ وَلاَ يَخْذُلُهُ وَلاَ يَكْذِبُهُ وَلاَ يَحْقِرُهُ. التَّقْوَى هَاهُنَا - وَيُشِيرُ إِلَى صَدْرِهِ.",
+      "transliteration": "La tahasadu, wa la tanajashu, wa la tabaghadu, wa la tadabaru... wa kunu 'ibada Allahi ikhwana. Al-muslimu akhu al-muslim, la yazlimuhu wa la yakhdhuluhu wa la yakdhibuhu wa la yahqiruh. At-taqwa hahuna - wa yushiru ila sadrih.",
+      "translation_pt": "Não vos invejeis, não inflacioneis preços artificialmente, não vos odieis, não vos volteis as costas... e sede servos de Allah como irmãos. O muçulmano é irmão do muçulmano: não o oprime, não o abandona, não lhe mente e não o despreza. A piedade (taqwa) está aqui — e apontou para o peito.",
+      "translation_en": "Do not envy one another, do not artificially inflate prices, do not hate one another, do not turn your backs on one another... and be servants of Allah as brothers. The Muslim is the brother of the Muslim: he does not wrong him, forsake him, lie to him, or despise him. Piety (taqwa) is here — and he pointed to his chest.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; recorded by Muslim.",
+      "teachings_pt": [
+        "Proíbe os males que destroem a fraternidade: inveja, ódio, desprezo.",
+        "Define os direitos do muçulmano sobre o irmão de fé.",
+        "A verdadeira piedade reside no coração, não nas aparências."
+      ],
+      "teachings_en": [
+        "It forbids the evils that destroy brotherhood: envy, hatred, contempt.",
+        "It defines the rights of a Muslim over his brother in faith.",
+        "True piety resides in the heart, not in appearances."
+      ],
+      "themes_pt": [
+        "Fraternidade",
+        "Direitos do muçulmano",
+        "Taqwa"
+      ],
+      "themes_en": [
+        "Brotherhood",
+        "Rights of the Muslim",
+        "Taqwa"
+      ]
+    },
+    {
+      "number": 36,
+      "title_pt": "Aliviar o aflito e a ajuda mútua",
+      "title_en": "Relieving distress and mutual aid",
+      "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ... وَاللهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ... وَمَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ.",
+      "transliteration": "Man naffasa 'an mu'minin kurbatan min kurabi ad-dunya naffasa Allahu 'anhu kurbatan min kurabi yawmi al-qiyamah... wa Allahu fi 'awni al-'abdi ma kana al-'abdu fi 'awni akhih... wa man salaka tariqan yaltamisu fihi 'ilman sahhala Allahu lahu bihi tariqan ila al-jannah.",
+      "translation_pt": "Quem alivia um crente de uma aflição deste mundo, Allah o aliviará de uma aflição do Dia da Ressurreição... E Allah está no auxílio do servo enquanto o servo estiver no auxílio do seu irmão... E quem percorre um caminho em busca de conhecimento, Allah lhe facilitará com isso um caminho para o Paraíso.",
+      "translation_en": "Whoever relieves a believer of a distress of this world, Allah will relieve him of a distress on the Day of Resurrection... And Allah aids the servant as long as the servant aids his brother... And whoever travels a path seeking knowledge, Allah will make easy for him a path to Paradise.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Narrado por Abu Hurayrah; registrado por Muslim.",
+      "chain_note_en": "Narrated by Abu Hurayrah; recorded by Muslim.",
+      "teachings_pt": [
+        "A recompensa corresponde ao tipo de ação: aliviar o outro traz alívio divino.",
+        "Buscar conhecimento é um caminho facilitado para o Paraíso.",
+        "A ajuda mútua atrai o auxílio contínuo de Allah."
+      ],
+      "teachings_en": [
+        "Reward matches the kind of deed: relieving others brings divine relief.",
+        "Seeking knowledge is a path made easy toward Paradise.",
+        "Mutual aid draws Allah's continuous help."
+      ],
+      "themes_pt": [
+        "Solidariedade",
+        "Busca do conhecimento",
+        "Recompensa"
+      ],
+      "themes_en": [
+        "Solidarity",
+        "Seeking knowledge",
+        "Reward"
+      ]
+    },
+    {
+      "number": 37,
+      "title_pt": "A generosidade de Allah no registro das ações",
+      "title_en": "Allah's generosity in recording deeds",
+      "arabic": "إِنَّ اللهَ كَتَبَ الْحَسَنَاتِ وَالسَّيِّئَاتِ ثُمَّ بَيَّنَ ذَلِكَ: فَمَنْ هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللهُ عِنْدَهُ عَشْرَ حَسَنَاتٍ إِلَى سَبْعِمِائَةِ ضِعْفٍ إِلَى أَضْعَافٍ كَثِيرَةٍ.",
+      "transliteration": "Inna Allaha kataba al-hasanati was-sayyi'ati thumma bayyana dhalik: faman hamma bihasanatin falam ya'malha katabaha Allahu 'indahu hasanatan kamilah, wa in hamma biha fa'amilaha katabaha Allahu 'indahu 'ashra hasanatin ila sab'imi'ati di'fin ila ad'afin kathirah.",
+      "translation_pt": "Allah registrou as boas e as más ações e depois explicou: quem tenciona uma boa ação e não a realiza, Allah a registra como uma boa ação completa; se a tenciona e a realiza, Allah a registra de dez a setecentas vezes, até muitas vezes mais. E quem tenciona uma má ação e não a realiza, Allah a registra como uma boa ação completa; e se a realiza, registra-a como uma única má ação.",
+      "translation_en": "Allah recorded good and bad deeds and then made it clear: whoever intends a good deed but does not do it, Allah records it as a complete good deed; and if he intends it and does it, Allah records it as ten to seven hundred times, up to many times more. And whoever intends a bad deed but does not do it, Allah records it as a complete good deed; and if he does it, He records it as a single bad deed.",
+      "narrator": "Abdullah ibn Abbas (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "chain_note_pt": "Hadith Qudsi narrado por Ibn Abbas; acordado por Al-Bukhari e Muslim.",
+      "chain_note_en": "Hadith Qudsi narrated by Ibn Abbas; agreed upon by al-Bukhari and Muslim.",
+      "teachings_pt": [
+        "A imensa misericórdia de Allah: a boa intenção já é recompensada.",
+        "As boas ações são multiplicadas; as más, contadas uma só vez.",
+        "Incentivo à esperança e à prática constante do bem."
+      ],
+      "teachings_en": [
+        "Allah's immense mercy: even good intention is rewarded.",
+        "Good deeds are multiplied; bad ones counted only once.",
+        "Encouragement to hope and to constant doing of good."
+      ],
+      "themes_pt": [
+        "Misericórdia divina",
+        "Intenção",
+        "Recompensa"
+      ],
+      "themes_en": [
+        "Divine mercy",
+        "Intention",
+        "Reward"
+      ]
+    },
+    {
+      "number": 38,
+      "title_pt": "A proximidade a Allah pelos atos de adoração",
+      "title_en": "Nearness to Allah through acts of worship",
+      "arabic": "مَنْ عَادَى لِي وَلِيًّا فَقَدْ آذَنْتُهُ بِالْحَرْبِ، وَمَا تَقَرَّبَ إِلَيَّ عَبْدِي بِشَيْءٍ أَحَبَّ إِلَيَّ مِمَّا افْتَرَضْتُ عَلَيْهِ، وَمَا يَزَالُ عَبْدِي يَتَقَرَّبُ إِلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ...",
+      "transliteration": "Man 'ada li waliyyan faqad adhantuhu bil-harb, wa ma taqarraba ilayya 'abdi bishay'in ahabba ilayya mimma iftaradtu 'alayh, wa ma yazalu 'abdi yataqarrabu ilayya bin-nawafili hatta uhibbah, fa'idha ahbabtuhu kuntu sam'ahu alladhi yasma'u bih, wa basarahu alladhi yubsiru bih...",
+      "translation_pt": "Quem hostiliza um amigo (wali) Meu, declaro-lhe guerra. Nada Me aproxima mais do Meu servo do que o cumprimento do que lhe tornei obrigatório; e o Meu servo continua a se aproximar de Mim com atos voluntários até que Eu o ame. Quando o amo, torno-Me a audição com que ele ouve, a visão com que ele vê, a mão com que golpeia e o pé com que caminha; se Me pede, atendo-o; e se busca refúgio em Mim, concedo-lhe.",
+      "translation_en": "Whoever shows enmity to a friend (wali) of Mine, I declare war on him. Nothing brings My servant closer to Me than what I have made obligatory upon him; and My servant keeps drawing near to Me with voluntary acts until I love him. When I love him, I become the hearing with which he hears, the sight with which he sees, the hand with which he strikes, and the foot with which he walks; if he asks Me, I grant him; and if he seeks refuge in Me, I protect him.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "chain_note_pt": "Hadith Qudsi narrado por Abu Hurayrah; registrado por Al-Bukhari.",
+      "chain_note_en": "Hadith Qudsi narrated by Abu Hurayrah; recorded by al-Bukhari.",
+      "teachings_pt": [
+        "Os amigos (awliya') de Allah têm proteção especial.",
+        "Os atos obrigatórios são o meio mais amado de aproximação a Allah.",
+        "Os atos voluntários elevam o servo até o amor divino e a proteção constante."
+      ],
+      "teachings_en": [
+        "The friends (awliya') of Allah have special protection.",
+        "Obligatory acts are the most beloved means of drawing near to Allah.",
+        "Voluntary acts raise the servant to divine love and constant protection."
+      ],
+      "themes_pt": [
+        "Amor de Allah",
+        "Atos voluntários",
+        "Proximidade divina"
+      ],
+      "themes_en": [
+        "Love of Allah",
+        "Voluntary acts",
+        "Divine nearness"
+      ]
+    },
+    {
+      "number": 39,
+      "title_pt": "O perdão do erro, do esquecimento e da coação",
+      "title_en": "Pardon for mistake, forgetfulness and coercion",
+      "arabic": "إِنَّ اللهَ تَجَاوَزَ لِي عَنْ أُمَّتِي الْخَطَأَ وَالنِّسْيَانَ وَمَا اسْتُكْرِهُوا عَلَيْهِ.",
+      "transliteration": "Inna Allaha tajawaza li 'an ummati al-khata'a wan-nisyana wa ma ustukrihu 'alayh.",
+      "translation_pt": "Allah perdoou (isentou de pecado), em favor de mim, para a minha comunidade: o erro involuntário, o esquecimento e aquilo a que forem coagidos.",
+      "translation_en": "Allah has pardoned for my sake, for my nation, the mistake, the forgetfulness, and that which they are coerced into doing.",
+      "narrator": "Abdullah ibn Abbas (رضي الله عنهما)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan Ibn Majah",
+        "Sunan al-Bayhaqi"
+      ],
+      "chain_note_pt": "Narrado por Ibn Abbas; registrado por Ibn Majah, Al-Bayhaqi e outros; hadith hasan (fortalecido por suas vias).",
+      "chain_note_en": "Narrated by Ibn Abbas; recorded by Ibn Majah, al-Bayhaqi, and others; a hasan hadith (strengthened by its chains).",
+      "teachings_pt": [
+        "Não há pecado no erro involuntário, no esquecimento e sob coação.",
+        "Grande princípio de misericórdia e leveza na responsabilidade legal.",
+        "A intenção e a vontade livre são condições da responsabilidade."
+      ],
+      "teachings_en": [
+        "There is no sin in unintentional error, forgetfulness, or coercion.",
+        "A great principle of mercy and lightness in legal responsibility.",
+        "Intention and free will are conditions of accountability."
+      ],
+      "themes_pt": [
+        "Misericórdia",
+        "Responsabilidade",
+        "Princípio jurídico"
+      ],
+      "themes_en": [
+        "Mercy",
+        "Accountability",
+        "Legal principle"
+      ]
+    },
+    {
+      "number": 40,
+      "title_pt": "Sê neste mundo como um estrangeiro",
+      "title_en": "Be in this world as a stranger",
+      "arabic": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ. وَكَانَ ابْنُ عُمَرَ يَقُولُ: إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِمَرَضِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ.",
+      "transliteration": "Kun fi ad-dunya ka'annaka gharibun aw 'abiru sabil. Wa kana Ibnu Umara yaqul: idha amsayta fala tantazhiri as-sabah, wa idha asbahta fala tantazhiri al-masa', wa khudh min sihhatika limaradik, wa min hayatika limawtik.",
+      "translation_pt": "Sê neste mundo como se fosses um estrangeiro ou um viajante de passagem. E Ibn Umar dizia: 'Se anoiteceres, não esperes pela manhã; e se amanheceres, não esperes pela noite. Aproveita da tua saúde para a tua doença, e da tua vida para a tua morte.'",
+      "translation_en": "Be in this world as though you were a stranger or a wayfarer. And Ibn Umar used to say: 'When evening comes, do not expect the morning; and when morning comes, do not expect the evening. Take from your health for your illness, and from your life for your death.'",
+      "narrator": "Abdullah ibn Umar (رضي الله عنهما)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "chain_note_pt": "Narrado por Ibn Umar; registrado por Al-Bukhari.",
+      "chain_note_en": "Narrated by Ibn Umar; recorded by al-Bukhari.",
+      "teachings_pt": [
+        "A vida é passagem; não se deve fixar o coração no mundo.",
+        "Aproveitar o tempo, a saúde e a vida antes que se acabem.",
+        "Consciência da morte gera seriedade e diligência no bem."
+      ],
+      "teachings_en": [
+        "Life is a passage; one should not fix the heart on the world.",
+        "Make use of time, health, and life before they end.",
+        "Awareness of death brings seriousness and diligence in good."
+      ],
+      "themes_pt": [
+        "Vida como passagem",
+        "Aproveitar o tempo",
+        "Lembrança da morte"
+      ],
+      "themes_en": [
+        "Life as a passage",
+        "Using time well",
+        "Remembrance of death"
+      ]
+    },
+    {
+      "number": 41,
+      "title_pt": "Subordinar os desejos à revelação",
+      "title_en": "Subordinating desires to the revelation",
+      "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَوَاهُ تَبَعًا لِمَا جِئْتُ بِهِ.",
+      "transliteration": "La yu'minu ahadukum hatta yakuna hawahu taba'an lima ji'tu bih.",
+      "translation_pt": "Nenhum de vós crê verdadeiramente até que os seus desejos estejam subordinados àquilo que eu trouxe.",
+      "translation_en": "None of you truly believes until his desires are in accordance with what I have brought.",
+      "narrator": "Abdullah ibn Amr ibn al-As (رضي الله عنهما)",
+      "grade": "Sahih segundo An-Nawawi (há discordância)",
+      "sources": [
+        "Kitab al-Hujjah",
+        "(citado por An-Nawawi)"
+      ],
+      "chain_note_pt": "Narrado por Abdullah ibn Amr ibn al-As; An-Nawawi o classificou sahih em sua obra; alguns estudiosos posteriores consideram a cadeia fraca. Seu significado é confirmado por outros textos.",
+      "chain_note_en": "Narrated by Abdullah ibn Amr ibn al-As; an-Nawawi graded it sahih in his work; some later scholars consider the chain weak. Its meaning is supported by other texts.",
+      "teachings_pt": [
+        "A fé completa exige alinhar a vontade à orientação do Profeta ﷺ.",
+        "Submeter o ego e os caprichos à revelação é sinal de crença sincera.",
+        "O padrão da conduta é a revelação, não o desejo pessoal."
+      ],
+      "teachings_en": [
+        "Complete faith requires aligning one's will with the Prophet's ﷺ guidance.",
+        "Submitting the ego and whims to revelation is a sign of sincere belief.",
+        "The standard of conduct is revelation, not personal desire."
+      ],
+      "themes_pt": [
+        "Submissão à revelação",
+        "Domínio do ego",
+        "Fé"
+      ],
+      "themes_en": [
+        "Submission to revelation",
+        "Mastery of the ego",
+        "Faith"
+      ]
+    },
+    {
+      "number": 42,
+      "title_pt": "A amplitude do perdão de Allah",
+      "title_en": "The vastness of Allah's forgiveness",
+      "arabic": "يَا ابْنَ آدَمَ! إِنَّكَ مَا دَعَوْتَنِي وَرَجَوْتَنِي غَفَرْتُ لَكَ عَلَى مَا كَانَ مِنْكَ وَلاَ أُبَالِي... يَا ابْنَ آدَمَ! لَوْ بَلَغَتْ ذُنُوبُكَ عَنَانَ السَّمَاءِ ثُمَّ اسْتَغْفَرْتَنِي غَفَرْتُ لَكَ... لَوْ أَتَيْتَنِي بِقُرَابِ الأَرْضِ خَطَايَا ثُمَّ لَقِيتَنِي لاَ تُشْرِكُ بِي شَيْئًا لَأَتَيْتُكَ بِقُرَابِهَا مَغْفِرَةً.",
+      "transliteration": "Ya ibna Adam! innaka ma da'awtani wa rajawtani ghafartu laka 'ala ma kana minka wa la ubali... ya ibna Adam! law balaghat dhunubuka 'anana as-sama'i thumma istaghfartani ghafartu lak... law ataytani biqurabi al-ardi khataya thumma laqitani la tushriku bi shay'an la'ataytuka biqurabiha maghfirah.",
+      "translation_pt": "Ó filho de Adão! Enquanto Me invocares e esperares em Mim, Eu te perdoarei o que houver de ti, e não Me importarei. Ó filho de Adão! Se os teus pecados alcançassem as nuvens do céu e depois Me pedisses perdão, Eu te perdoaria. Ó filho de Adão! Se viesses a Mim com pecados quase enchendo a terra e me encontrasses sem associar nada a Mim, Eu viria a ti com perdão de igual medida.",
+      "translation_en": "O son of Adam! As long as you call upon Me and hope in Me, I will forgive you whatever comes from you, and I will not mind. O son of Adam! Were your sins to reach the clouds of the sky and then you sought My forgiveness, I would forgive you. O son of Adam! Were you to come to Me with sins nearly filling the earth and then meet Me without associating anything with Me, I would come to you with forgiveness of like measure.",
+      "narrator": "Anas ibn Malik (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan at-Tirmidhi"
+      ],
+      "chain_note_pt": "Hadith Qudsi narrado por Anas ibn Malik; registrado por At-Tirmidhi, que o classificou hasan.",
+      "chain_note_en": "Hadith Qudsi narrated by Anas ibn Malik; recorded by at-Tirmidhi, who graded it hasan.",
+      "teachings_pt": [
+        "A misericórdia e o perdão de Allah não têm limites para quem se arrepende.",
+        "A súplica, a esperança e o tawhid (monoteísmo puro) abrem as portas do perdão.",
+        "Nenhum pecado é grande demais diante do arrependimento sincero."
+      ],
+      "teachings_en": [
+        "Allah's mercy and forgiveness have no limit for the one who repents.",
+        "Supplication, hope, and pure tawhid open the doors of forgiveness.",
+        "No sin is too great before sincere repentance."
+      ],
+      "themes_pt": [
+        "Perdão",
+        "Arrependimento (tawbah)",
+        "Esperança"
+      ],
+      "themes_en": [
+        "Forgiveness",
+        "Repentance (tawbah)",
+        "Hope"
+      ]
+    }
+  ],
+  "related_hadiths": [
+    {
+      "id": "R1",
+      "title_pt": "O melhor de vós",
+      "title_en": "The best of you",
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ.",
+      "transliteration": "Khayrukum man ta'allama al-Qur'ana wa 'allamah.",
+      "translation_pt": "O melhor de vós é aquele que aprende o Alcorão e o ensina.",
+      "translation_en": "The best of you is the one who learns the Qur'an and teaches it.",
+      "narrator": "Uthman ibn Affan (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "connection_pt": "Complementa o Hadith 36 (busca do conhecimento como caminho para o Paraíso).",
+      "connection_en": "Complements Hadith 36 (seeking knowledge as a path to Paradise).",
+      "themes_pt": [
+        "Conhecimento",
+        "Alcorão",
+        "Ensino"
+      ],
+      "themes_en": [
+        "Knowledge",
+        "Qur'an",
+        "Teaching"
+      ]
+    },
+    {
+      "id": "R2",
+      "title_pt": "O verdadeiro forte",
+      "title_en": "The truly strong",
+      "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ.",
+      "transliteration": "Laysa ash-shadidu bis-sur'ah, innama ash-shadidu alladhi yamliku nafsahu 'inda al-ghadab.",
+      "translation_pt": "O forte não é o que vence pela luta; o forte é aquele que domina a si mesmo no momento da ira.",
+      "translation_en": "The strong is not the one who overpowers others in wrestling; the strong is the one who controls himself when angry.",
+      "narrator": "Abu Hurayrah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "connection_pt": "Complementa o Hadith 16 ('Não te enfureças') sobre o controle da ira.",
+      "connection_en": "Complements Hadith 16 ('Do not become angry') on anger management.",
+      "themes_pt": [
+        "Controle da ira",
+        "Autodomínio"
+      ],
+      "themes_en": [
+        "Anger management",
+        "Self-control"
+      ]
+    },
+    {
+      "id": "R3",
+      "title_pt": "Facilitai, não dificulteis",
+      "title_en": "Make things easy",
+      "arabic": "يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا.",
+      "transliteration": "Yassiru wa la tu'assiru, wa bashshiru wa la tunaffiru.",
+      "translation_pt": "Facilitai e não dificulteis; dai boas novas e não afasteis (as pessoas).",
+      "translation_en": "Make things easy and do not make them difficult; give glad tidings and do not repel people.",
+      "narrator": "Anas ibn Malik (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "connection_pt": "Complementa o Hadith 9 (a facilidade da religião e a capacidade humana).",
+      "connection_en": "Complements Hadith 9 (ease of religion and human capacity).",
+      "themes_pt": [
+        "Facilidade",
+        "Dawah",
+        "Bondade"
+      ],
+      "themes_en": [
+        "Ease",
+        "Dawah",
+        "Kindness"
+      ]
+    },
+    {
+      "id": "R4",
+      "title_pt": "A misericórdia recíproca",
+      "title_en": "Reciprocal mercy",
+      "arabic": "مَنْ لاَ يَرْحَمِ النَّاسَ لاَ يَرْحَمْهُ اللهُ.",
+      "transliteration": "Man la yarhami an-nasa la yarhamhu Allah.",
+      "translation_pt": "Quem não tem misericórdia das pessoas, Allah não terá misericórdia dele.",
+      "translation_en": "Whoever does not show mercy to people, Allah will not show mercy to him.",
+      "narrator": "Jarir ibn Abdullah (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "connection_pt": "Complementa o Hadith 17 (o ihsan e a misericórdia em todas as coisas).",
+      "connection_en": "Complements Hadith 17 (ihsan and mercy in all things).",
+      "themes_pt": [
+        "Misericórdia",
+        "Compaixão"
+      ],
+      "themes_en": [
+        "Mercy",
+        "Compassion"
+      ]
+    },
+    {
+      "id": "R5",
+      "title_pt": "O mais benéfico às pessoas",
+      "title_en": "The most beneficial to people",
+      "arabic": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ.",
+      "transliteration": "Khayru an-nasi anfa'uhum lin-nas.",
+      "translation_pt": "O melhor das pessoas é o mais útil às pessoas.",
+      "translation_en": "The best of people is the one most beneficial to people.",
+      "narrator": "Jabir ibn Abdullah (رضي الله عنهما)",
+      "grade": "Hasan",
+      "sources": [
+        "al-Mu'jam al-Awsat (at-Tabarani)"
+      ],
+      "connection_pt": "Complementa os Hadiths 26 e 36 (caridade cotidiana e serviço ao próximo).",
+      "connection_en": "Complements Hadiths 26 and 36 (everyday charity and service to others).",
+      "themes_pt": [
+        "Serviço",
+        "Benefício ao próximo"
+      ],
+      "themes_en": [
+        "Service",
+        "Benefiting others"
+      ]
+    },
+    {
+      "id": "R6",
+      "title_pt": "O pudor só traz o bem",
+      "title_en": "Modesty brings only good",
+      "arabic": "الْحَيَاءُ لاَ يَأْتِي إِلاَّ بِخَيْرٍ.",
+      "transliteration": "Al-haya'u la ya'ti illa bikhayr.",
+      "translation_pt": "O pudor (haya') não traz senão o bem.",
+      "translation_en": "Modesty (haya') brings nothing but good.",
+      "narrator": "Imran ibn Husayn (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "connection_pt": "Complementa o Hadith 20 (o pudor como freio moral).",
+      "connection_en": "Complements Hadith 20 (modesty as a moral restraint).",
+      "themes_pt": [
+        "Pudor (haya')",
+        "Caráter"
+      ],
+      "themes_en": [
+        "Modesty (haya')",
+        "Character"
+      ]
+    },
+    {
+      "id": "R7",
+      "title_pt": "A garantia do Paraíso",
+      "title_en": "The guarantee of Paradise",
+      "arabic": "مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ.",
+      "transliteration": "Man yadman li ma bayna lahyayhi wa ma bayna rijlayhi adman lahu al-jannah.",
+      "translation_pt": "Quem me garantir o que há entre suas mandíbulas (a língua) e o que há entre suas pernas (a castidade), eu lhe garanto o Paraíso.",
+      "translation_en": "Whoever guarantees me what is between his jaws (the tongue) and what is between his legs (chastity), I guarantee him Paradise.",
+      "narrator": "Sahl ibn Sa'd (رضي الله عنه)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari"
+      ],
+      "connection_pt": "Complementa os Hadiths 15 e 29 (guardar a língua) e o tema da castidade.",
+      "connection_en": "Complements Hadiths 15 and 29 (guarding the tongue) and the theme of chastity.",
+      "themes_pt": [
+        "Guardar a língua",
+        "Castidade",
+        "Paraíso"
+      ],
+      "themes_en": [
+        "Guarding the tongue",
+        "Chastity",
+        "Paradise"
+      ]
+    },
+    {
+      "id": "R8",
+      "title_pt": "O crente e o seu vizinho",
+      "title_en": "The believer and his neighbour",
+      "arabic": "لَيْسَ الْمُؤْمِنُ الَّذِي يَشْبَعُ وَجَارُهُ جَائِعٌ إِلَى جَنْبِهِ.",
+      "transliteration": "Laysa al-mu'minu alladhi yashba'u wa jaruhu ja'i'un ila janbih.",
+      "translation_pt": "Não é (verdadeiro) crente aquele que se sacia enquanto o seu vizinho ao lado passa fome.",
+      "translation_en": "He is not a (true) believer who eats his fill while his neighbour beside him goes hungry.",
+      "narrator": "Ibn Abbas (رضي الله عنهما)",
+      "grade": "Hasan",
+      "sources": [
+        "al-Adab al-Mufrad (al-Bukhari)",
+        "Sunan al-Bayhaqi"
+      ],
+      "connection_pt": "Complementa os Hadiths 13 e 15 (amar o bem ao irmão e honrar o vizinho).",
+      "connection_en": "Complements Hadiths 13 and 15 (loving good for one's brother and honouring the neighbour).",
+      "themes_pt": [
+        "Vizinhança",
+        "Solidariedade",
+        "Fé"
+      ],
+      "themes_en": [
+        "Neighbourliness",
+        "Solidarity",
+        "Faith"
+      ]
+    },
+    {
+      "id": "R9",
+      "title_pt": "As ações mais constantes",
+      "title_en": "The most constant deeds",
+      "arabic": "أَحَبُّ الأَعْمَالِ إِلَى اللهِ أَدْوَمُهَا وَإِنْ قَلَّ.",
+      "transliteration": "Ahabbu al-a'mali ila Allahi adwamuha wa in qall.",
+      "translation_pt": "As ações mais amadas por Allah são as mais constantes, ainda que pequenas.",
+      "translation_en": "The most beloved deeds to Allah are the most constant, even if they are few.",
+      "narrator": "Aisha (رضي الله عنها)",
+      "grade": "Sahih",
+      "sources": [
+        "Sahih al-Bukhari",
+        "Sahih Muslim"
+      ],
+      "connection_pt": "Complementa o Hadith 21 (firmeza e constância - istiqamah).",
+      "connection_en": "Complements Hadith 21 (steadfastness and constancy - istiqamah).",
+      "themes_pt": [
+        "Constância",
+        "Istiqamah",
+        "Adoração"
+      ],
+      "themes_en": [
+        "Constancy",
+        "Istiqamah",
+        "Worship"
+      ]
+    },
+    {
+      "id": "R10",
+      "title_pt": "Sorrir é caridade",
+      "title_en": "Smiling is charity",
+      "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ.",
+      "transliteration": "Tabassumuka fi wajhi akhika laka sadaqah.",
+      "translation_pt": "O teu sorriso para o rosto do teu irmão é uma caridade para ti.",
+      "translation_en": "Your smile in the face of your brother is a charity for you.",
+      "narrator": "Abu Dharr al-Ghifari (رضي الله عنه)",
+      "grade": "Hasan",
+      "sources": [
+        "Sunan at-Tirmidhi"
+      ],
+      "connection_pt": "Complementa os Hadiths 25 e 26 (as muitas portas da caridade).",
+      "connection_en": "Complements Hadiths 25 and 26 (the many doors of charity).",
+      "themes_pt": [
+        "Caridade",
+        "Bom trato",
+        "Fraternidade"
+      ],
+      "themes_en": [
+        "Charity",
+        "Good treatment",
+        "Brotherhood"
+      ]
+    }
+  ]
+}

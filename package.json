@@ -1,0 +1,32 @@
+{
+  "name": "40-hadiths",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Plataforma de estudo dos 40 Hadiths de An-Nawawi — bilíngue (PT/EN), Liquid Glass, PWA offline.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.1"
+  },
+  "devDependencies": {
+    "@fontsource-variable/inter": "^5.1.1",
+    "@fontsource/amiri": "^5.1.0",
+    "@fontsource/scheherazade-new": "^5.1.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7",
+    "vite-plugin-pwa": "^0.21.1"
+  }
+}

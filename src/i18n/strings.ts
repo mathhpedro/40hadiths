@@ -1,0 +1,308 @@
+import type { Lang } from '../types'
+
+/**
+ * UI label dictionary. The hadith *content* is never translated here — it comes
+ * from the JSON. This only covers chrome/labels. Adding a 3rd language means
+ * adding one more object with the same keys (TS enforces parity).
+ */
+const pt = {
+  appName: '40 Hadiths',
+  appTagline: 'Os Quarenta de An-Nawawi',
+
+  // Navigation
+  navHome: 'Início',
+  navList: 'Hadiths',
+  navMemorize: 'Memorizar',
+  navRelated: 'Complementares',
+  navSettings: 'Ajustes',
+
+  // Home
+  homeStart: 'Começar a estudar',
+  homeHadithOfDay: 'Hadith do dia',
+  homeQuickAccess: 'Acesso rápido',
+  homeBrowseAll: 'Ver todos os hadiths',
+  homeBrowseAllDesc: 'Os 42 hadiths, com busca e filtros',
+  homeMemorize: 'Memorização',
+  homeMemorizeDesc: 'Flashcards com repetição espaçada',
+  homePresent: 'Modo aula',
+  homePresentDesc: 'Projetar em tela para o encontro',
+  homeRelatedDesc: 'Hadiths para memorizar, ligados aos temas',
+  homeProgress: 'Seu progresso',
+  homeMemorized: 'memorizados',
+  homeLearning: 'em progresso',
+  homeReadThis: 'Ler este hadith',
+  homeCollection: 'Coleção',
+  homeAuthor: 'Autor',
+
+  // Hadith list
+  listTitle: 'Hadiths',
+  listSearch: 'Buscar por texto, tema, narrador…',
+  listFilterTheme: 'Tema',
+  listFilterSource: 'Fonte',
+  listAllThemes: 'Todos os temas',
+  listAllSources: 'Todas as fontes',
+  listFilters: 'Filtros',
+  listClear: 'Limpar',
+  listResults: '{n} de {total}',
+  listNoResults: 'Nenhum hadith encontrado',
+  listNoResultsHint: 'Tente outro termo ou limpe os filtros.',
+
+  // Hadith detail
+  detailAbout: 'Sobre',
+  detailTeachings: 'Ensinamentos',
+  detailThemes: 'Temas',
+  detailNarrator: 'Narrador',
+  detailGrade: 'Grau',
+  detailSources: 'Fontes',
+  detailChain: 'Transmissão',
+  detailTransliteration: 'Transliteração',
+  detailTranslation: 'Tradução',
+  detailPrev: 'Anterior',
+  detailNext: 'Próximo',
+  detailHideTranslation: 'Ocultar tradução',
+  detailShowTranslation: 'Mostrar tradução',
+  detailHideTranslit: 'Ocultar transliteração',
+  detailShowTranslit: 'Mostrar transliteração',
+  detailFlashcard: 'Flashcard',
+  detailPresent: 'Projetar',
+  detailNotes: 'Anotações',
+  detailNotesPlaceholder: 'Escreva suas notas sobre este hadith…',
+  detailNotesSaved: 'Salvo no dispositivo',
+  detailMarkMemorized: 'Marcar memorizado',
+  detailMarkLearning: 'Em progresso',
+  detailStatusNew: 'Novo',
+  detailStatusLearning: 'Em progresso',
+  detailStatusMemorized: 'Memorizado',
+  detailRelated: 'Hadiths complementares',
+  detailHadithN: 'Hadith {n}',
+
+  // Related
+  relatedTitle: 'Hadiths complementares',
+  relatedIntro:
+    'Hadiths de memorização fora da coleção, ligados por tema a um dos 42.',
+  relatedConnection: 'Conexão',
+  relatedSeeHadith: 'Ver Hadith {n}',
+
+  // Memorize
+  memTitle: 'Memorização',
+  memIntro: 'Frente em árabe, verso com a tradução. Avalie-se com honestidade.',
+  memDueOnly: 'A revisar hoje',
+  memAll: 'Todos',
+  memCardOf: '{i} de {n}',
+  memShowAnswer: 'Mostrar resposta',
+  memKnow: 'Sei',
+  memAlmost: 'Quase',
+  memDont: 'Não sei',
+  memAllCaughtUp: 'Tudo revisado por hoje!',
+  memAllCaughtUpHint: 'Volte amanhã ou estude o baralho completo.',
+  memStudyAll: 'Estudar todos',
+  memDueToday: '{n} para revisar',
+  memRestart: 'Recomeçar baralho',
+  memFlip: 'Toque para virar',
+  memFront: 'Árabe',
+  memBack: 'Tradução',
+
+  // Presentation
+  presExit: 'Sair',
+  presArabic: 'Árabe',
+  presTranslit: 'Transliteração',
+  presTranslation: 'Tradução',
+  presHint: 'Use ← → para navegar · A/T/L alternam as seções · Esc sai',
+
+  // Settings
+  setTitle: 'Ajustes',
+  setLanguage: 'Idioma',
+  setLangPt: 'Português',
+  setLangEn: 'English',
+  setTheme: 'Tema',
+  setThemeLight: 'Claro',
+  setThemeDark: 'Escuro',
+  setThemeSystem: 'Sistema',
+  setFontSize: 'Tamanho do texto',
+  setFontS: 'A',
+  setFontM: 'A',
+  setFontL: 'A',
+  setFontXl: 'A',
+  setArabicFont: 'Fonte árabe',
+  setReduceMotion: 'Reduzir animações',
+  setReduceMotionDesc: 'Desativa o fundo e as transições animadas.',
+  setShowTranslit: 'Mostrar transliteração por padrão',
+  setShowTranslation: 'Mostrar tradução por padrão',
+  setDisplay: 'Exibição',
+  setContent: 'Conteúdo',
+  setAbout: 'Sobre',
+  setVersion: 'Versão dos dados',
+  setInstall: 'Instalar aplicativo',
+  setInstallDesc: 'Adicione à tela inicial para uso off-line.',
+  setReset: 'Apagar progresso e anotações',
+  setResetConfirm: 'Apagar todo o progresso, anotações e preferências deste dispositivo?',
+  setDataNote:
+    'Revise a vocalização (tashkil) e as traduções com o sheikh antes do uso litúrgico.',
+  setReviewNote: 'Nota de revisão',
+
+  // Misc
+  close: 'Fechar',
+  cancel: 'Cancelar',
+  offlineReady: 'Pronto para uso off-line',
+  updateAvailable: 'Nova versão disponível',
+  reload: 'Atualizar',
+  backHome: 'Voltar ao início',
+  notFound: 'Hadith não encontrado',
+} as const
+
+type Key = keyof typeof pt
+type Dict = Record<Key, string>
+
+const en: Dict = {
+  appName: '40 Hadiths',
+  appTagline: "An-Nawawi's Forty",
+
+  navHome: 'Home',
+  navList: 'Hadiths',
+  navMemorize: 'Memorize',
+  navRelated: 'Related',
+  navSettings: 'Settings',
+
+  homeStart: 'Start studying',
+  homeHadithOfDay: 'Hadith of the day',
+  homeQuickAccess: 'Quick access',
+  homeBrowseAll: 'Browse all hadiths',
+  homeBrowseAllDesc: 'All 42 hadiths, with search and filters',
+  homeMemorize: 'Memorization',
+  homeMemorizeDesc: 'Flashcards with spaced repetition',
+  homePresent: 'Class mode',
+  homePresentDesc: 'Project on screen for the session',
+  homeRelatedDesc: 'Hadiths to memorize, tied to the themes',
+  homeProgress: 'Your progress',
+  homeMemorized: 'memorized',
+  homeLearning: 'in progress',
+  homeReadThis: 'Read this hadith',
+  homeCollection: 'Collection',
+  homeAuthor: 'Author',
+
+  listTitle: 'Hadiths',
+  listSearch: 'Search text, theme, narrator…',
+  listFilterTheme: 'Theme',
+  listFilterSource: 'Source',
+  listAllThemes: 'All themes',
+  listAllSources: 'All sources',
+  listFilters: 'Filters',
+  listClear: 'Clear',
+  listResults: '{n} of {total}',
+  listNoResults: 'No hadiths found',
+  listNoResultsHint: 'Try another term or clear the filters.',
+
+  detailAbout: 'About',
+  detailTeachings: 'Teachings',
+  detailThemes: 'Themes',
+  detailNarrator: 'Narrator',
+  detailGrade: 'Grade',
+  detailSources: 'Sources',
+  detailChain: 'Transmission',
+  detailTransliteration: 'Transliteration',
+  detailTranslation: 'Translation',
+  detailPrev: 'Previous',
+  detailNext: 'Next',
+  detailHideTranslation: 'Hide translation',
+  detailShowTranslation: 'Show translation',
+  detailHideTranslit: 'Hide transliteration',
+  detailShowTranslit: 'Show transliteration',
+  detailFlashcard: 'Flashcard',
+  detailPresent: 'Project',
+  detailNotes: 'Notes',
+  detailNotesPlaceholder: 'Write your notes about this hadith…',
+  detailNotesSaved: 'Saved on this device',
+  detailMarkMemorized: 'Mark memorized',
+  detailMarkLearning: 'In progress',
+  detailStatusNew: 'New',
+  detailStatusLearning: 'In progress',
+  detailStatusMemorized: 'Memorized',
+  detailRelated: 'Related hadiths',
+  detailHadithN: 'Hadith {n}',
+
+  relatedTitle: 'Related hadiths',
+  relatedIntro:
+    'Memorizable hadiths outside the collection, tied by theme to one of the 42.',
+  relatedConnection: 'Connection',
+  relatedSeeHadith: 'See Hadith {n}',
+
+  memTitle: 'Memorization',
+  memIntro: 'Arabic on the front, translation on the back. Grade yourself honestly.',
+  memDueOnly: 'Due today',
+  memAll: 'All',
+  memCardOf: '{i} of {n}',
+  memShowAnswer: 'Show answer',
+  memKnow: 'I know it',
+  memAlmost: 'Almost',
+  memDont: "Don't know",
+  memAllCaughtUp: 'All caught up for today!',
+  memAllCaughtUpHint: 'Come back tomorrow or study the full deck.',
+  memStudyAll: 'Study all',
+  memDueToday: '{n} to review',
+  memRestart: 'Restart deck',
+  memFlip: 'Tap to flip',
+  memFront: 'Arabic',
+  memBack: 'Translation',
+
+  presExit: 'Exit',
+  presArabic: 'Arabic',
+  presTranslit: 'Transliteration',
+  presTranslation: 'Translation',
+  presHint: 'Use ← → to navigate · A/T/L toggle sections · Esc exits',
+
+  setTitle: 'Settings',
+  setLanguage: 'Language',
+  setLangPt: 'Português',
+  setLangEn: 'English',
+  setTheme: 'Theme',
+  setThemeLight: 'Light',
+  setThemeDark: 'Dark',
+  setThemeSystem: 'System',
+  setFontSize: 'Text size',
+  setFontS: 'A',
+  setFontM: 'A',
+  setFontL: 'A',
+  setFontXl: 'A',
+  setArabicFont: 'Arabic font',
+  setReduceMotion: 'Reduce motion',
+  setReduceMotionDesc: 'Turns off the animated background and transitions.',
+  setShowTranslit: 'Show transliteration by default',
+  setShowTranslation: 'Show translation by default',
+  setDisplay: 'Display',
+  setContent: 'Content',
+  setAbout: 'About',
+  setVersion: 'Data version',
+  setInstall: 'Install app',
+  setInstallDesc: 'Add to your home screen for offline use.',
+  setReset: 'Erase progress and notes',
+  setResetConfirm: 'Erase all progress, notes and preferences from this device?',
+  setDataNote:
+    'Review the Arabic vocalization (tashkil) and translations with the sheikh before liturgical use.',
+  setReviewNote: 'Review note',
+
+  close: 'Close',
+  cancel: 'Cancel',
+  offlineReady: 'Ready to use offline',
+  updateAvailable: 'A new version is available',
+  reload: 'Update',
+  backHome: 'Back home',
+  notFound: 'Hadith not found',
+}
+
+export const strings: Record<Lang, Dict> = { pt, en }
+export type StringKey = Key
+
+/** Translate a key, interpolating {vars}. */
+export function translate(
+  lang: Lang,
+  key: Key,
+  vars?: Record<string, string | number>,
+): string {
+  let out: string = strings[lang][key]
+  if (vars) {
+    for (const [k, v] of Object.entries(vars)) {
+      out = out.replace(new RegExp(`\\{${k}\\}`, 'g'), String(v))
+    }
+  }
+  return out
+}
