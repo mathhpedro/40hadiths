@@ -13,18 +13,21 @@ import '@fontsource/scheherazade-new/700.css'
 import { App } from './App'
 import { SettingsProvider } from './context/SettingsContext'
 import { LanguageProvider } from './context/LanguageContext'
+import { AuthProvider } from './context/AuthContext'
 import { StudyProvider } from './context/StudyContext'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <SettingsProvider>
       <LanguageProvider>
-        <StudyProvider>
-          {/* HashRouter keeps deep links working on any static host / sub-path. */}
-          <HashRouter>
-            <App />
-          </HashRouter>
-        </StudyProvider>
+        <AuthProvider>
+          <StudyProvider>
+            {/* HashRouter keeps deep links working on any static host / sub-path. */}
+            <HashRouter>
+              <App />
+            </HashRouter>
+          </StudyProvider>
+        </AuthProvider>
       </LanguageProvider>
     </SettingsProvider>
   </StrictMode>,

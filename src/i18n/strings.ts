@@ -140,6 +140,23 @@ const pt = {
     'Revise a vocalização (tashkil) e as traduções com o sheikh antes do uso litúrgico.',
   setReviewNote: 'Nota de revisão',
 
+  // Account / cloud sync
+  setAccount: 'Conta',
+  syncTitle: 'Sincronização na nuvem',
+  syncDesc: 'Entre para sincronizar seu progresso e anotações entre dispositivos.',
+  authEmail: 'E-mail',
+  authPassword: 'Senha',
+  authName: 'Nome (opcional)',
+  authSignIn: 'Entrar',
+  authSignUp: 'Criar conta',
+  authSignOut: 'Sair',
+  authSignedInAs: 'Conectado como',
+  authSyncing: 'Sincronizando…',
+  authSynced: 'Sincronizado',
+  authConfirmEmail: 'Enviamos um e-mail de confirmação. Confirme para ativar a sincronização.',
+  authNeedFields: 'Preencha e-mail e senha.',
+  authError: 'Não foi possível. Verifique os dados e tente novamente.',
+
   // Misc
   close: 'Fechar',
   cancel: 'Cancelar',
@@ -279,6 +296,22 @@ const en: Dict = {
   setDataNote:
     'Review the Arabic vocalization (tashkil) and translations with the sheikh before liturgical use.',
   setReviewNote: 'Review note',
+
+  setAccount: 'Account',
+  syncTitle: 'Cloud sync',
+  syncDesc: 'Sign in to sync your progress and notes across devices.',
+  authEmail: 'Email',
+  authPassword: 'Password',
+  authName: 'Name (optional)',
+  authSignIn: 'Sign in',
+  authSignUp: 'Create account',
+  authSignOut: 'Sign out',
+  authSignedInAs: 'Signed in as',
+  authSyncing: 'Syncing…',
+  authSynced: 'Synced',
+  authConfirmEmail: 'We sent a confirmation email. Confirm it to enable sync.',
+  authNeedFields: 'Enter email and password.',
+  authError: 'Something went wrong. Check your details and try again.',
 
   close: 'Close',
   cancel: 'Cancel',

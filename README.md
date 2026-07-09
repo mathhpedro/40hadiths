@@ -36,8 +36,9 @@ dourado suave e padrão geométrico), sem imagens de seres animados.
 
 React + Vite + TypeScript · Tailwind CSS v4 · React Router (HashRouter) ·
 `vite-plugin-pwa` · fontes self-hosted via `@fontsource` (Amiri, Scheherazade New, Inter).
-Sem back-end — todo o estado (idioma, preferências, progresso, anotações) fica em
-`localStorage`.
+Todo o estado (idioma, preferências, progresso, anotações) fica em `localStorage` e
+funciona **100% off-line**. A sincronização na nuvem (Supabase) é **opcional** — o app
+inteiro funciona sem login.
 
 ## Rodar localmente
 
@@ -47,6 +48,27 @@ npm run dev        # servidor de desenvolvimento
 npm run build      # gera dist/ (typecheck + build de produção)
 npm run preview    # serve o build de produção localmente
 ```
+
+## Sincronização na nuvem (Supabase) — opcional
+
+Em *Ajustes → Conta*, cada pessoa pode criar uma conta (e-mail + senha) para
+**sincronizar seu próprio progresso e anotações entre dispositivos** (ex.: o celular e
+a tela projetada na aula). Sem login, tudo continua funcionando localmente.
+
+- **Projeto:** `40-hadiths` (região São Paulo, `sa-east-1`), ref `uhguulzgyfyvpieuaodp`.
+- **Tabelas:** `progress` e `notes` (uma linha por hadith por usuário) + `profiles`.
+  Todas com **Row Level Security**: cada usuário só lê/escreve as próprias linhas.
+- **Chaves:** a URL e a chave *publishable* já vêm embutidas (`src/lib/supabase.ts`) —
+  são públicas por natureza; a segurança vem do RLS. Para apontar para outro projeto,
+  defina `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY` (veja `.env.example`).
+- **Estratégia:** *last-writer-wins* por hadith (carimbo de tempo); o local serve de
+  cache off-line e é reconciliado ao entrar e ao reabrir o app.
+
+> **Cadastro sem fricção (recomendado para a turma):** por padrão o Supabase pede
+> confirmação por e-mail. Para liberar o login imediato, no painel do Supabase vá em
+> *Authentication → Sign In / Providers → Email* e desative *Confirm email*.
+
+O schema está versionado em `supabase/migrations/`.
 
 ## Atualizar o conteúdo (os hadiths)
 
@@ -87,15 +109,22 @@ npm i -D sharp && node scripts/generate-icons.mjs
 
 O build é 100% estático. Como usa `base: './'` (caminhos relativos) e HashRouter,
 funciona em qualquer host — inclusive em subcaminho (ex.: GitHub Pages `/40hadiths/`)
-sem regras de rewrite.
+sem regras de rewrite. O `vercel.json` já traz build e diretório de saída.
 
-- **Netlify / Vercel:** build `npm run build`, diretório de publicação `dist`.
-- **GitHub Pages:** publique o conteúdo de `dist/` (o `.nojekyll` já vai junto).
+**Vercel (recomendado):**
+1. Em [vercel.com/new](https://vercel.com/new), importe o repositório `mathhpedro/40hadiths`.
+2. O framework (Vite) é detectado automaticamente — **nenhuma variável de ambiente é
+   necessária** (as chaves do Supabase já vêm embutidas). É só *Deploy*.
+3. Cada `git push` passa a gerar um deploy novo. Defina a *Production Branch* para o
+   branch que você usa (ou faça merge para a branch padrão).
+
+**Netlify:** build `npm run build`, publicação `dist`.
+**GitHub Pages:** publique o conteúdo de `dist/` (o `.nojekyll` já vai junto).
 
 ## Roadmap (fases futuras)
 
+- [x] **Sincronização na nuvem** (Supabase) de progresso e anotações por usuário.
 - [ ] **Áudio de recitação** por hadith (campo de URL/arquivo por hadith + player).
-- [ ] **Sincronização em grupo** de progresso e anotações (ex.: back-end leve como
-      Supabase) — hoje tudo é local ao dispositivo.
+- [ ] Notas/anotações **compartilhadas com o grupo** (hoje cada conta é individual).
 - [ ] Painel do facilitador para montar a "sessão da semana" e exportar PDF.
 - [ ] Comentário do sheikh por hadith.

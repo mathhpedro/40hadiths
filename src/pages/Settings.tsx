@@ -8,9 +8,11 @@ import {
   type ArabicFont,
 } from '../context/SettingsContext'
 import { useStudy } from '../context/StudyContext'
+import { useAuth } from '../context/AuthContext'
 import { meta } from '../data'
 import { cn } from '../lib/cn'
 import { Glass } from '../components/glass/Glass'
+import { AuthPanel } from '../components/AuthPanel'
 
 interface BeforeInstallPromptEvent extends Event {
   prompt: () => Promise<void>
@@ -40,6 +42,7 @@ export function SettingsPage() {
   const { lang, setLang, t } = useLang()
   const { settings, update } = useSettings()
   const { resetAll } = useStudy()
+  const { configured } = useAuth()
   const { canInstall, install } = useInstallPrompt()
 
   const reset = () => {
@@ -127,6 +130,13 @@ export function SettingsPage() {
           label={t('setShowTranslation')}
         />
       </Section>
+
+      {/* Account / cloud sync */}
+      {configured && (
+        <Section title={t('setAccount')}>
+          <AuthPanel />
+        </Section>
+      )}
 
       {/* About */}
       <Section title={t('setAbout')}>

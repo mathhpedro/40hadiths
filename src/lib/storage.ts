@@ -28,4 +28,6 @@ export const STORAGE_KEYS = {
   progress: 'progress',
   notes: 'notes',
   srs: 'srs',
+  srsTimes: 'srsTimes',
+  noteTimes: 'noteTimes',
 } as const
