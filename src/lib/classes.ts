@@ -86,7 +86,7 @@ export async function setAttendance(
   )
 }
 
-/** "1, 2 e 3" / "1 2 3" → [1,2,3], de-duped, clamped to 1..42, sorted. */
+/** "1, 2 e 3" / "1 2 3" → [1,2,3]: keeps only integers within 1..max, de-duped, sorted. */
 export function parseHadithNumbers(input: string, max: number): number[] {
   const nums = input
     .split(/[^0-9]+/)
