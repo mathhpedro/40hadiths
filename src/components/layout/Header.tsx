@@ -15,6 +15,7 @@ function useTitle(): string | null {
   }
   if (pathname.startsWith('/hadiths')) return t('listTitle')
   if (pathname.startsWith('/related')) return t('relatedTitle')
+  if (pathname.startsWith('/aulas')) return t('classesTitle')
   if (pathname.startsWith('/memorize')) return t('memTitle')
   if (pathname.startsWith('/settings')) return t('setTitle')
   return null

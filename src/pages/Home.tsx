@@ -1,16 +1,23 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
-import { ArrowRight, BookOpen, Layers, Sparkles, MonitorPlay } from 'lucide-react'
+import { ArrowRight, BookOpen, Layers, Sparkles, MonitorPlay, CalendarCheck } from 'lucide-react'
 import { useLang } from '../context/LanguageContext'
 import { useStudy } from '../context/StudyContext'
+import { useClasses } from '../context/ClassesContext'
 import { hadiths, meta, hadithOfTheDay, localizeHadith } from '../data'
 import { Glass } from '../components/glass/Glass'
 import { Logo } from '../components/Logo'
 import { Bismillah, Ornament } from '../components/hadith/content'
+import { ConfirmButtons, formatWhen } from '../components/classes/parts'
 
 export function Home() {
   const { lang, t } = useLang()
   const { memorizedCount, learningCount, dueCount } = useStudy()
+  const { signedIn, sessions, myStatus, confirm } = useClasses()
+
+  const nextClass = signedIn
+    ? sessions.find((s) => new Date(s.scheduled_at).getTime() >= Date.now() - 3 * 60 * 60 * 1000)
+    : undefined
 
   const today = hadithOfTheDay()
   const todayL = localizeHadith(today, lang)
@@ -41,6 +48,35 @@ export function Home() {
           </Link>
         </Glass>
       </section>
+
+      {/* Next class (when signed in) */}
+      {nextClass && (
+        <section className="fade-in" style={{ animationDelay: '40ms' }}>
+          <div className="mb-2 flex items-center gap-2 px-1">
+            <CalendarCheck size={15} style={{ color: 'var(--accent)' }} />
+            <h2 className="eyebrow flex-1">{t('classNext')}</h2>
+            <Link
+              to="/aulas"
+              className="text-xs font-semibold"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('classViewAll')}
+            </Link>
+          </div>
+          <Glass className="space-y-3 p-5">
+            <div>
+              <div className="text-sm font-semibold" style={{ color: 'var(--accent)' }}>
+                {formatWhen(nextClass.scheduled_at, lang)}
+              </div>
+              <h3 className="hadith-title text-lg">{nextClass.title}</h3>
+            </div>
+            <ConfirmButtons
+              status={myStatus(nextClass.id)}
+              onPick={(s) => void confirm(nextClass.id, s)}
+            />
+          </Glass>
+        </section>
+      )}
 
       {/* Hadith of the day */}
       <section className="fade-in" style={{ animationDelay: '60ms' }}>

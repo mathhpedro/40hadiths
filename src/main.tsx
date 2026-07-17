@@ -15,6 +15,7 @@ import { SettingsProvider } from './context/SettingsContext'
 import { LanguageProvider } from './context/LanguageContext'
 import { AuthProvider } from './context/AuthContext'
 import { StudyProvider } from './context/StudyContext'
+import { ClassesProvider } from './context/ClassesContext'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -22,10 +23,12 @@ createRoot(document.getElementById('root')!).render(
       <LanguageProvider>
         <AuthProvider>
           <StudyProvider>
-            {/* HashRouter keeps deep links working on any static host / sub-path. */}
-            <HashRouter>
-              <App />
-            </HashRouter>
+            <ClassesProvider>
+              {/* HashRouter keeps deep links working on any static host / sub-path. */}
+              <HashRouter>
+                <App />
+              </HashRouter>
+            </ClassesProvider>
           </StudyProvider>
         </AuthProvider>
       </LanguageProvider>

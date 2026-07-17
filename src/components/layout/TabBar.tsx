@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Home, BookOpen, Layers, Sparkles, Settings } from 'lucide-react'
+import { Home, BookOpen, Layers, CalendarCheck, Settings } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { useLang } from '../../context/LanguageContext'
 import type { StringKey } from '../../i18n/strings'
@@ -21,7 +21,7 @@ const TABS: Tab[] = [
     match: (p) => p.startsWith('/hadiths') || p.startsWith('/hadith/'),
   },
   { to: '/memorize', icon: Layers, label: 'navMemorize', match: (p) => p.startsWith('/memorize') },
-  { to: '/related', icon: Sparkles, label: 'navRelated', match: (p) => p.startsWith('/related') },
+  { to: '/aulas', icon: CalendarCheck, label: 'navClasses', match: (p) => p.startsWith('/aulas') },
   { to: '/settings', icon: Settings, label: 'navSettings', match: (p) => p.startsWith('/settings') },
 ]
 

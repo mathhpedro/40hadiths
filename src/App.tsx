@@ -4,6 +4,7 @@ import { Home } from './pages/Home'
 import { HadithList } from './pages/HadithList'
 import { HadithDetail } from './pages/HadithDetail'
 import { Related } from './pages/Related'
+import { Classes } from './pages/Classes'
 import { Memorize } from './pages/Memorize'
 import { SettingsPage } from './pages/Settings'
 import { Presentation } from './pages/Presentation'
@@ -17,6 +18,7 @@ export function App() {
         <Route path="/hadiths" element={<HadithList />} />
         <Route path="/hadith/:number" element={<HadithDetail />} />
         <Route path="/related" element={<Related />} />
+        <Route path="/aulas" element={<Classes />} />
         <Route path="/memorize" element={<Memorize />} />
         <Route path="/settings" element={<SettingsPage />} />
         <Route path="*" element={<NotFound />} />

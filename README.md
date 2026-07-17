@@ -27,6 +27,9 @@ dourado suave e padrão geométrico), sem imagens de seres animados.
   simples (*sei / quase / não sei*) e progresso salvo no dispositivo.
 - **Modo aula / apresentação**: tela cheia, alto contraste, um hadith por vez, com
   atalhos para mostrar/ocultar cada seção ao vivo (ideal para projetar).
+- **Aulas e confirmação de presença**: agende os encontros (data/hora, hadiths da
+  sessão, local, notas) e cada membro confirma presença (*Vou / Talvez / Não vou*);
+  todos veem quem vai. Aparece a "próxima aula" na Home. Requer login (Supabase).
 - **Ajustes**: idioma, tema claro/escuro/sistema, tamanho do texto, fonte árabe
   (Amiri / Scheherazade New), reduzir animações e padrões de exibição.
 - **PWA**: instalável e utilizável **off-line** (conteúdo, fontes e dados são
@@ -56,8 +59,11 @@ Em *Ajustes → Conta*, cada pessoa pode criar uma conta (e-mail + senha) para
 a tela projetada na aula). Sem login, tudo continua funcionando localmente.
 
 - **Projeto:** `40-hadiths` (região São Paulo, `sa-east-1`), ref `uhguulzgyfyvpieuaodp`.
-- **Tabelas:** `progress` e `notes` (uma linha por hadith por usuário) + `profiles`.
-  Todas com **Row Level Security**: cada usuário só lê/escreve as próprias linhas.
+- **Tabelas:** `progress` e `notes` (uma linha por hadith por usuário), `profiles`,
+  e — para as aulas — `sessions` (aulas agendadas) e `attendance` (confirmações).
+  Todas com **Row Level Security**: progresso/anotações são privados de cada usuário;
+  as aulas e confirmações são visíveis a todos os membros logados, mas cada um só
+  edita as próprias (e o criador gerencia a própria aula).
 - **Chaves:** a URL e a chave *publishable* já vêm embutidas (`src/lib/supabase.ts`) —
   são públicas por natureza; a segurança vem do RLS. Para apontar para outro projeto,
   defina `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY` (veja `.env.example`).
