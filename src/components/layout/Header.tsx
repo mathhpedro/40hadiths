@@ -21,16 +21,24 @@ function useTitle(): string | null {
   return null
 }
 
+/** Primary destinations reachable from the tab bar — these get no back button. */
+function isRootPath(p: string): boolean {
+  return p === '/' || p === '/hadiths' || p === '/memorize' || p === '/aulas' || p === '/settings'
+}
+
 export function Header() {
-  const { pathname } = useLocation()
+  const location = useLocation()
+  const pathname = location.pathname
   const navigate = useNavigate()
   const { t } = useLang()
   const { resolvedTheme, update } = useSettings()
   const title = useTitle()
   const isHome = pathname === '/'
+  const showBack = !isRootPath(pathname)
 
   const goBack = () => {
-    if (window.history.length > 2) navigate(-1)
+    // location.key is 'default' only on a fresh load — nothing to go back to in-app.
+    if (location.key !== 'default') navigate(-1)
     else navigate(pathname.startsWith('/hadith/') ? '/hadiths' : '/')
   }
 
@@ -60,13 +68,13 @@ export function Header() {
               </div>
             </div>
           </div>
-        ) : (
+        ) : showBack ? (
           <>
             <button
               type="button"
               onClick={goBack}
               className="btn btn--ghost btn--icon"
-              aria-label={t('detailPrev')}
+              aria-label={t('navBack')}
             >
               <ChevronLeft size={22} />
             </button>
@@ -74,6 +82,10 @@ export function Header() {
               {title}
             </h1>
           </>
+        ) : (
+          <h1 className="min-w-0 flex-1 truncate text-[1.05rem] font-bold tracking-tight">
+            {title}
+          </h1>
         )}
 
         <div className="ml-auto flex items-center gap-1.5">

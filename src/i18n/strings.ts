@@ -15,6 +15,7 @@ const pt = {
   navMemorize: 'Memorizar',
   navRelated: 'Complementares',
   navSettings: 'Ajustes',
+  navBack: 'Voltar',
 
   // Home
   homeStart: 'Começar a estudar',
@@ -209,6 +210,7 @@ const en: Dict = {
   navMemorize: 'Memorize',
   navRelated: 'Related',
   navSettings: 'Settings',
+  navBack: 'Back',
 
   homeStart: 'Start studying',
   homeHadithOfDay: 'Hadith of the day',

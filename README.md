@@ -17,8 +17,10 @@ dourado suave e padrão geométrico), sem imagens de seres animados.
 
 - **42 hadiths** + **10 hadiths complementares**, cada um com árabe (RTL), transliteração,
   tradução, narrador, grau, fontes, nota de transmissão, ensinamentos e temas.
-- **Bilíngue PT/EN** com alternância global persistida. O árabe e a transliteração não
-  mudam com o idioma — mudam a tradução, os ensinamentos e os rótulos.
+- **Trilíngue por hadith**: árabe original, transliteração e as **duas traduções
+  (Português e English) exibidas juntas** — a do idioma atual primeiro (Português por
+  padrão, pensado para a turma brasileira). O toggle global PT/EN controla a interface,
+  os ensinamentos e a ordem das traduções, e é persistido.
 - **Lista** com busca (texto/tema/narrador, sem depender de acentos) e filtros por
   **tema** e por **fonte** (Bukhari, Muslim, Tirmidhi…).
 - **Detalhe** com seções *Sobre / Ensinamentos / Temas*, esconder/mostrar transliteração

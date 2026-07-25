@@ -25,7 +25,7 @@ import type { MemoStatus } from '../lib/srs'
 import { cn } from '../lib/cn'
 import { Glass } from '../components/glass/Glass'
 import { StatusBadge } from '../components/hadith/StatusBadge'
-import { ArabicText, TranslitText, TranslationText, Ornament } from '../components/hadith/content'
+import { ArabicText, TranslitText, TranslationStack, Ornament } from '../components/hadith/content'
 import { NotFound } from './NotFound'
 
 export function HadithDetail() {
@@ -100,7 +100,7 @@ function DetailBody({ hadith }: { hadith: Hadith }) {
         {showTranslation && (
           <>
             <Ornament className="my-4" />
-            <TranslationText text={h.translation} />
+            <TranslationStack pt={hadith.translation_pt} en={hadith.translation_en} />
           </>
         )}
       </Glass>

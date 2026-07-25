@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react'
 import { useLang } from '../context/LanguageContext'
 import { relatedHadiths, localizeRelated, connectionNumbers } from '../data'
 import { Glass } from '../components/glass/Glass'
-import { ArabicText, TranslitText, TranslationText, Ornament } from '../components/hadith/content'
+import { ArabicText, TranslitText, TranslationStack, Ornament } from '../components/hadith/content'
 
 export function Related() {
   const { lang, t } = useLang()
@@ -34,7 +34,7 @@ export function Related() {
               <ArabicText text={r.arabic} />
               <Ornament className="my-3.5" />
               <TranslitText text={r.transliteration} />
-              <TranslationText text={rl.translation} className="mt-2.5" />
+              <TranslationStack pt={r.translation_pt} en={r.translation_en} className="mt-2.5" />
 
               <div className="mt-4 flex flex-wrap gap-1.5">
                 {rl.sources.map((s) => (

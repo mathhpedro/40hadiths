@@ -5,6 +5,7 @@ import { useLang } from '../context/LanguageContext'
 import { getHadith, hadiths, hadithOfTheDay, localizeHadith } from '../data'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { Background } from '../components/layout/Background'
+import { TranslationStack } from '../components/hadith/content'
 import { cn } from '../lib/cn'
 
 export function Presentation() {
@@ -152,12 +153,7 @@ export function Presentation() {
         )}
 
         {showTranslation && (
-          <p
-            className="max-w-4xl"
-            style={{ fontSize: 'clamp(1.1rem, 2.6vw, 2.2rem)', lineHeight: 1.6, color: 'var(--fg)' }}
-          >
-            {h.translation}
-          </p>
+          <TranslationStack pt={hadith.translation_pt} en={hadith.translation_en} big />
         )}
       </div>
 
