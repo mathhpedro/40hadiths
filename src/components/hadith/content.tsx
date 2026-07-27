@@ -31,9 +31,9 @@ export function TranslationText({ text, className }: { text: string; className?:
 }
 
 /**
- * Both translations stacked and labelled, primary (current UI language) first.
- * For a PT-default Brazilian class this shows Português first, then English.
- * `big` uses projector-sized type for the presentation screen.
+ * Both translations stacked and labelled — Portuguese is always the main text
+ * (full strength, first) and English stays secondary (muted, below), regardless
+ * of the interface-language toggle. `big` uses projector-sized type.
  */
 export function TranslationStack({
   pt,
@@ -46,17 +46,13 @@ export function TranslationStack({
   big?: boolean
   className?: string
 }) {
-  const { lang, t } = useLang()
-  const items =
-    lang === 'pt'
-      ? [
-          { code: 'pt', label: t('setLangPt'), text: pt },
-          { code: 'en', label: t('setLangEn'), text: en },
-        ]
-      : [
-          { code: 'en', label: t('setLangEn'), text: en },
-          { code: 'pt', label: t('setLangPt'), text: pt },
-        ]
+  const { t } = useLang()
+  // Portuguese is always the main text (Brazilian class); English stays secondary,
+  // regardless of the interface-language toggle.
+  const items = [
+    { code: 'pt', label: t('setLangPt'), text: pt },
+    { code: 'en', label: t('setLangEn'), text: en },
+  ]
   return (
     <div className={cn(big ? 'space-y-5' : 'space-y-4', className)}>
       {items.map((it, i) => (

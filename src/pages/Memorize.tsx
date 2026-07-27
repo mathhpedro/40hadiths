@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { RotateCcw, Check, CheckCheck, BookOpen, ArrowRight } from 'lucide-react'
 import { useLang } from '../context/LanguageContext'
 import { useStudy } from '../context/StudyContext'
-import { hadiths, getHadith, localizeHadith } from '../data'
+import { hadiths, getHadith } from '../data'
 import { isDue } from '../lib/srs'
 import type { SrsGrade } from '../lib/srs'
 import { cn } from '../lib/cn'
@@ -22,7 +22,7 @@ function shuffle<T>(arr: T[]): T[] {
 type Mode = 'due' | 'all'
 
 export function Memorize() {
-  const { lang, t } = useLang()
+  const { t } = useLang()
   const study = useStudy()
   const allNumbers = useMemo(() => hadiths.map((h) => h.number), [])
   const dueNow = study.dueCount(allNumbers)
@@ -76,7 +76,6 @@ export function Memorize() {
 
   const current = queue[idx]
   const hadith = getHadith(current)!
-  const h = localizeHadith(hadith, lang)
 
   const grade = (g: SrsGrade) => {
     study.reviewCard(current, g)
@@ -150,8 +149,8 @@ export function Memorize() {
           {/* Back — Translation */}
           <Glass strong className="flip-face flip-face--back flex min-h-[42vh] flex-col justify-center p-6">
             <span className="eyebrow mb-3">{t('memBack')}</span>
-            <h3 className="hadith-title mb-3 text-lg">{h.title}</h3>
-            <TranslationText text={h.translation} />
+            <h3 className="hadith-title mb-3 text-lg">{hadith.title_pt}</h3>
+            <TranslationText text={hadith.translation_pt} />
           </Glass>
         </div>
       </button>
